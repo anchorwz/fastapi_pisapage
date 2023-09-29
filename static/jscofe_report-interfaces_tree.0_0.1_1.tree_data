@@ -1,0 +1,198 @@
+[
+{ label: 'List of interfaces', id: 'jscofe_report-interfaces_list-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interfaces_list.tsk', openMode: 'always_open',
+ children: [
+{ label: '1.      F                                                                                              ||      E                                                                                             ', id: 'jscofe_report-interface_summary_panel_0-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_0.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_0-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_0.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_0-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_0.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '2.      E                                                                                              ||      F                                                                                             ', id: 'jscofe_report-interface_summary_panel_1-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_1.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_1-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_1.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_1-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_1.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '3.      E                                                                                              ||      E                                                                                             ', id: 'jscofe_report-interface_summary_panel_2-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_2.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_2-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_2.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_2-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_2.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '4.      A                                                                                              ||      B                                                                                             ', id: 'jscofe_report-interface_summary_panel_3-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_3.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_3-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_3.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_3-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_3.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '5.      B                                                                                              ||      A                                                                                             ', id: 'jscofe_report-interface_summary_panel_4-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_4.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_4-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_4.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_4-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_4.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '6.      D                                                                                              ||      C                                                                                             ', id: 'jscofe_report-interface_summary_panel_5-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_5.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_5-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_5.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_5-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_5.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '7.      D                                                                                              ||      C                                                                                             ', id: 'jscofe_report-interface_summary_panel_6-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_6.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_6-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_6.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_6-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_6.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '8.      B                                                                                              ||      A                                                                                             ', id: 'jscofe_report-interface_summary_panel_7-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_7.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_7-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_7.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_7-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_7.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '9.      D                                                                                              ||      C                                                                                             ', id: 'jscofe_report-interface_summary_panel_8-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_8.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_8-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_8.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_8-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_8.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '10.      C                                                                                              ||      C                                                                                             ', id: 'jscofe_report-interface_summary_panel_9-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_9.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_9-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_9.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_9-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_9.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '11.      A                                                                                              ||      A                                                                                             ', id: 'jscofe_report-interface_summary_panel_10-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_10.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_10-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_10.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_10-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_10.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '12.      B                                                                                              ||      B                                                                                             ', id: 'jscofe_report-interface_summary_panel_11-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_11.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_11-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_11.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_11-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_11.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '13.      D                                                                                              ||      D                                                                                             ', id: 'jscofe_report-interface_summary_panel_12-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_12.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_12-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_12.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_12-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_12.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '14. [ANP]E:500                                                                                          ||      E                                                                                             ', id: 'jscofe_report-interface_summary_panel_13-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_13.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_13-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_13.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_13-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_13.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '15. [ANP]F:501                                                                                          ||      F                                                                                             ', id: 'jscofe_report-interface_summary_panel_14-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_14.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_14-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_14.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_14-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_14.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '16.      F                                                                                              ||      B                                                                                             ', id: 'jscofe_report-interface_summary_panel_15-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_15.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_15-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_15.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_15-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_15.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '17.      E                                                                                              ||      A                                                                                             ', id: 'jscofe_report-interface_summary_panel_16-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_16.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_16-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_16.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_16-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_16.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '18.      C                                                                                              ||      F                                                                                             ', id: 'jscofe_report-interface_summary_panel_17-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_17.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_17-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_17.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_17-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_17.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '19.      E                                                                                              ||      A                                                                                             ', id: 'jscofe_report-interface_summary_panel_18-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_18.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_18-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_18.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_18-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_18.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '20. [ANP]E:500                                                                                          ||      F                                                                                             ', id: 'jscofe_report-interface_summary_panel_19-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_19.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_19-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_19.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_19-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_19.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '21.      E                                                                                              || [ANP]F:501                                                                                         ', id: 'jscofe_report-interface_summary_panel_20-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_20.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_20-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_20.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_20-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_20.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '22.      F                                                                                              ||      E                                                                                             ', id: 'jscofe_report-interface_summary_panel_21-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_21.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_21-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_21.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_21-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_21.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '23.      E                                                                                              ||      E                                                                                             ', id: 'jscofe_report-interface_summary_panel_22-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_22.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_22-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_22.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_22-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_22.tsk', openMode: 'auto'
+}
+]
+},{
+ label: '24.      F                                                                                              ||      F                                                                                             ', id: 'jscofe_report-interface_summary_panel_23-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_summary_panel_23.tsk', openMode: 'auto',
+ children: [
+{ label: 'Bonds', id: 'jscofe_report-interface_bonds_panel_23-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_bonds_panel_23.tsk', openMode: 'auto'
+},{
+ label: 'Residues', id: 'jscofe_report-interface_res_panel_23-leaf', task: 'jscofe_report-interfaces_tree.0_0.1_1.jscofe_report-interface_res_panel_23.tsk', openMode: 'auto'
+}
+]
+}
+]
+}
+]

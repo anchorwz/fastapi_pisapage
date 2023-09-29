@@ -1,0 +1,18 @@
+<table id='jscofe_report-summary_table2-grid' style='width:auto' class='table-blue'>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of protein chains in ASU (Input file)'>Protein chains</th>
+<td class='table-blue-td' style='text-align:left;'>6 (6)</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of DNA/RNA chains in ASU (Input file)'>DNA/RNA chains</th>
+<td class='table-blue-td' style='text-align:left;'>0 (0)</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of ligands in ASU (Input file)'>Ligands</th>
+<td class='table-blue-td' style='text-align:left;'>2 (2)</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total number of NCS-mates'>NCS-mates</th>
+<td class='table-blue-td' style='text-align:left;'>0</td>
+  </tr>
+</table>

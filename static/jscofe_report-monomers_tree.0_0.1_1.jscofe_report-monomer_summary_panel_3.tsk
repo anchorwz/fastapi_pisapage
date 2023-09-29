@@ -1,0 +1,16 @@
+NEST_GRID_COMPACT:::jscofe_report-monomer_summary_panel_3:::jscofe_report-monomers_tree:::0:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>Monomer D (protein chain)</h2>:::jscofe_report-monomer_summary_panel_3:::0:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-monomer_summary_3_table:::Summary:::jscofe_report-monomer_summary_panel_3:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-monomer_summary_3_table:::jscofe_report-monomer_summary_3.1_0.1_1.table:::false::: ;;;
+ADD_HTML_GRID:::(*) Solvation energy of folding<br>&nbsp;:::jscofe_report-monomer_summary_panel_3:::2:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-monomer_summary_monomer_3:::Monomer structure:::jscofe_report-monomer_summary_panel_3:::3:::0:::1:::1:::_folded;;;
+ADD_GRID_COMPACT:::jscofe_report-monomer_summary_monomer_3;;;
+ADD_BUTTON:::jscofe_report-monomer_summary_monomer_3_coot:::Coot:::{coot}:::--pdb*../output/1e94-D-4.pdb:::true:::jscofe_report-monomer_summary_monomer_3-ext;;;
+ADD_BUTTON:::jscofe_report-monomer_summary_monomer_3_uglymol:::UglyMol:::{uglymol}:::1e94-D-4 Monomer structure >>>../output/1e94-D-4.pdb:::false:::jscofe_report-monomer_summary_monomer_3-ext;;;
+ADD_BUTTON:::jscofe_report-monomer_summary_monomer_3_ccp4mg:::ccp4mg:::{ccp4mg}:::../output/1e94-D-4.pdb:::true:::jscofe_report-monomer_summary_monomer_3-ext;;;
+ADD_BUTTON:::jscofe_report-monomer_summary_monomer_3_display:::Display:::{display}:::../output/1e94-D-4.pdb:::false:::jscofe_report-monomer_summary_monomer_3-ext;;;
+ADD_TEXTBOX_GRID:::jscofe_report-monomer_summary_monomer_3_dd_tbx0:::1e94-D-4.pdb:::jscofe_report-monomer_summary_monomer_3:::0:::0:::1:::1;;;
+ADD_BUTTON_GRID:::jscofe_report-monomer_summary_monomer_3_dd_path0:::Export:::{export}:::../output/1e94-D-4.pdb:::false:::jscofe_report-monomer_summary_monomer_3:::0:::1:::1:::1;;;
+ADD_HTML_GRID:::&nbsp;<br>:::jscofe_report-monomer_summary_panel_3:::4:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-monomer_resdata_3_table:::Residue Accessibility and Solvation Energy Effect:::jscofe_report-monomer_summary_panel_3:::5:::0:::1:::1:::_folded;;;
+LOAD_CONTENT:::jscofe_report-monomer_resdata_3_table:::jscofe_report-monomer_resdata_3.5_0.1_1.table:::false::: ;;;

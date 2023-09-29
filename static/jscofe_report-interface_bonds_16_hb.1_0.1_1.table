@@ -1,0 +1,30 @@
+<table id='jscofe_report-interface_bonds_16_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ASN&nbsp;141&nbsp;[&nbsp;ND2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7511</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;A:GLU&nbsp;&nbsp;61&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ASN&nbsp;141&nbsp;[&nbsp;ND2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8278</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;A:ARG&nbsp;&nbsp;62&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLY&nbsp;144&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.0629</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;A:GLN&nbsp;&nbsp;68&nbsp;[&nbsp;NE2]</td>
+  </tr>
+ </tbody>
+</table>

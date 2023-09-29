@@ -1,0 +1,22 @@
+[
+{ label: 'List of monomers', id: 'jscofe_report-monomers_list-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomers_list.tsk', openMode: 'always_open',
+ children: [
+{ label: '1.      A                                                                                             ', id: 'jscofe_report-monomer_summary_panel_0-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_0.tsk', openMode: 'auto'
+},{
+ label: '2.      B                                                                                             ', id: 'jscofe_report-monomer_summary_panel_1-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_1.tsk', openMode: 'auto'
+},{
+ label: '3.      C                                                                                             ', id: 'jscofe_report-monomer_summary_panel_2-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_2.tsk', openMode: 'auto'
+},{
+ label: '4.      D                                                                                             ', id: 'jscofe_report-monomer_summary_panel_3-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_3.tsk', openMode: 'auto'
+},{
+ label: '5.      E                                                                                             ', id: 'jscofe_report-monomer_summary_panel_4-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_4.tsk', openMode: 'auto'
+},{
+ label: '6.      F                                                                                             ', id: 'jscofe_report-monomer_summary_panel_5-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_5.tsk', openMode: 'auto'
+},{
+ label: '7. [ANP]E:500                                                                                         ', id: 'jscofe_report-monomer_summary_panel_6-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_6.tsk', openMode: 'auto'
+},{
+ label: '8. [ANP]F:501                                                                                         ', id: 'jscofe_report-monomer_summary_panel_7-leaf', task: 'jscofe_report-monomers_tree.0_0.1_1.jscofe_report-monomer_summary_panel_7.tsk', openMode: 'auto'
+}
+]
+}
+]

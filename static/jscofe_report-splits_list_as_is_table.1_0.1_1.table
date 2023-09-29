@@ -1,0 +1,26 @@
+<table id='jscofe_report-splits_list_as_is_table-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of macromolecular chains in the assembly.'>Size</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly type Id. Similar assemblies have same type Ids.'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Accessible Solvent Area of the assembly, in &Aring;&sup2;.'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Buried Surface Area of the assembly,  in &Aring;&sup2;.'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard Free Energy of dissociation into nearest stable assemblies with a positive dG_diss, in kcal/mol.'>dG_diss</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard free Energy of dissociation into monomeric units (ground state), in kcal/mol.'>dG0</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Chemical formula of the assembly. In the formula, monomeric units of the same chemical type are represented by the same letter. Capital letters stand for macromolecules and small letters denote ligands.'>Formula</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly Composition shows particular macromolecular chains and ligands found in the assembly.'>Composition</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>-30</td>
+<td class='table-blue-td' style='text-align:right;'>70867.6</td>
+<td class='table-blue-td' style='text-align:right;'>8903.2</td>
+<td class='table-blue-td' style='text-align:right;'>-43.6</td>
+<td class='table-blue-td' style='text-align:right;'>-5.4</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>ABCDEF[ANP]<sub>2</sub></td>
+  </tr>
+ </tbody>
+</table>

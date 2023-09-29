@@ -1,0 +1,54 @@
+<table id='jscofe_report-interface_bonds_6_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:GLY&nbsp;&nbsp;29&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.3279</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:GLU&nbsp;116&nbsp;[&nbsp;OE2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASN&nbsp;&nbsp;30&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5636</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:GLU&nbsp;116&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:THR&nbsp;&nbsp;50&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5379</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:ASP&nbsp;111&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>4</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:THR&nbsp;&nbsp;50&nbsp;[&nbsp;OG1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8270</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:ASP&nbsp;111&nbsp;[&nbsp;OD2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>5</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASP&nbsp;&nbsp;52&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4420</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:GLY&nbsp;110&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>6</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:LYS&nbsp;&nbsp;90&nbsp;[&nbsp;NZ&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5257</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:THR&nbsp;&nbsp;84&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>7</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:MET&nbsp;&nbsp;87&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8538</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:THR&nbsp;&nbsp;84&nbsp;[&nbsp;OG1]</td>
+  </tr>
+ </tbody>
+</table>

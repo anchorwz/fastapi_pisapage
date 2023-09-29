@@ -1,0 +1,44 @@
+<table id='jscofe_report-interface_radar_table_1-grid' style='width:auto' class='table-plain'>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for Interface Area'>IA</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Interface area, &Aring;&sup2;</td>
+<td class='table-plain-td'> 2193</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for Solvation Energy Gain'>DG</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Solvation Energy, kcal/mol</td>
+<td class='table-plain-td'> -11.47</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for total Binding Energy'>BE</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Total Binding Energy, kcal/mol</td>
+<td class='table-plain-td'> -24.84</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for hydrophobic P-value'>PV</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Hydrophobic P-value</td>
+<td class='table-plain-td'> 0.3948</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for Hydrogen Bonds'>HB</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Number of Hydrogen Bonds</td>
+<td class='table-plain-td'> 10</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for Salt Bridges'>SB</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Number of Salt Bridges</td>
+<td class='table-plain-td'> 24</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-plain-vh' title='Radar label for Disulphide Bonds'>DS</th>
+<td class='table-plain-td'>:</td>
+<td class='table-plain-td'>Number of Disulphide Bonds</td>
+<td class='table-plain-td'> 0</td>
+  </tr>
+</table>

@@ -1,0 +1,78 @@
+<table id='jscofe_report-interface_bonds_0_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;32&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7923</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:SER&nbsp;411&nbsp;[&nbsp;OG&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;36&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2867</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:SER&nbsp;407&nbsp;[&nbsp;OG&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;36&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>2.6844</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:SER&nbsp;407&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>4</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:SER&nbsp;291&nbsp;[&nbsp;OG&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1130</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ASP&nbsp;105&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>5</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:SER&nbsp;316&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.9721</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;440&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>6</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;329&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>2.9047</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:PHE&nbsp;441&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>7</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;36&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1958</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;361&nbsp;[&nbsp;OG1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>8</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLN&nbsp;&nbsp;39&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8918</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;361&nbsp;[&nbsp;OG1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>9</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:LYS&nbsp;232&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7226</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;214&nbsp;[&nbsp;NH1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>10</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:SER&nbsp;291&nbsp;[&nbsp;OG&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.3954</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;293&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>11</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;329&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.7493</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;401&nbsp;[&nbsp;NH2]</td>
+  </tr>
+ </tbody>
+</table>

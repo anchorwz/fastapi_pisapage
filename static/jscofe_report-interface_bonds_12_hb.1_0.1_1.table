@@ -1,0 +1,48 @@
+<table id='jscofe_report-interface_bonds_12_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:VAL&nbsp;&nbsp;26&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.7152</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ILE&nbsp;158&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ILE&nbsp;160&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2730</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASN&nbsp;&nbsp;24&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:TYR&nbsp;161&nbsp;[&nbsp;OH&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.6290</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASN&nbsp;&nbsp;24&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>4</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ILE&nbsp;158&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.7152</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:VAL&nbsp;&nbsp;26&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>5</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASN&nbsp;&nbsp;24&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2730</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ILE&nbsp;160&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>6</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:ASN&nbsp;&nbsp;24&nbsp;[&nbsp;OD1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.6290</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:TYR&nbsp;161&nbsp;[&nbsp;OH&nbsp;]</td>
+  </tr>
+ </tbody>
+</table>

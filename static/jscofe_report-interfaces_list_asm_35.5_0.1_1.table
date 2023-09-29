@@ -1,0 +1,66 @@
+<table id='jscofe_report-interfaces_list_asm_35-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Interface serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Interface type Id (numeric) and the special features flag: "f" for fixed interface, "x" for crystallographically propagating interface, "o" if overap detected'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='First interfacing monomer Id'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Second interfacing monomer Id'>Monomer 2</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Occurence number in the assembly; * : dissociating interface'>Occ.</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Symmetry operation, applied to 2nd monomer'>Symmetry operation</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Symmetry ID in form N_XYZ, where "N" is the symmetry operation number and "XYZ" is the unit cell position'>Sym. ID</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Interface area (half sum of monomers areas buried at the formation of the interface), in &Aring;&sup2;'>Area</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Solvation energy gain, in kcal/mol'>Delta G</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Hydrophobic P-value of interface. The lower P-value, the more specific, or surprising, the interface'>P-value</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of hydrogen bonds in the interface'>N<sub>hb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of salt bridges in the interface'>N<sub>sb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of disulphide bonds in the interface'>N<sub>ds</sub></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='text-align:right;'>4&nbsp;&nbsp;&nbsp;</td>
+<td class='table-blue-td' style='text-align:left;'>     D     </td>
+<td class='table-blue-td' style='text-align:left;'>     C     </td>
+<td class='table-blue-td' style='text-align:right;'>2*</td>
+<td class='table-blue-td' style='text-align:right;'>-Y+1,X-Y+2,Z</td>
+<td class='table-blue-td' style='text-align:right;'>3_675</td>
+<td class='table-blue-td' style='text-align:right;'>  674.1</td>
+<td class='table-blue-td' style='text-align:right;'>   -5.8</td>
+<td class='table-blue-td' style='text-align:right;'>0.260</td>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>9</td>
+<td class='table-blue-alt' style='text-align:right;'>5&nbsp;&nbsp;&nbsp;</td>
+<td class='table-blue-alt' style='text-align:left;'>     D     </td>
+<td class='table-blue-alt' style='text-align:left;'>     C     </td>
+<td class='table-blue-alt' style='text-align:right;'>2*</td>
+<td class='table-blue-alt' style='text-align:right;'>-Y+1,-X+1,-Z-1/2</td>
+<td class='table-blue-alt' style='text-align:right;'>8_664</td>
+<td class='table-blue-alt' style='text-align:right;'>  597.1</td>
+<td class='table-blue-alt' style='text-align:right;'>   -8.1</td>
+<td class='table-blue-alt' style='text-align:right;'>0.130</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>0</td>
+<td class='table-blue-alt' style='text-align:right;'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>13</td>
+<td class='table-blue-td' style='text-align:right;'>7&nbsp;&nbsp;&nbsp;</td>
+<td class='table-blue-td' style='text-align:left;'>     D     </td>
+<td class='table-blue-td' style='text-align:left;'>     D     </td>
+<td class='table-blue-td' style='text-align:right;'>1*</td>
+<td class='table-blue-td' style='text-align:right;'>X,X-Y+2,-Z-1/2</td>
+<td class='table-blue-td' style='text-align:right;'>12_574</td>
+<td class='table-blue-td' style='text-align:right;'>  449.5</td>
+<td class='table-blue-td' style='text-align:right;'>   -6.8</td>
+<td class='table-blue-td' style='text-align:right;'>0.142</td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>0</td>
+<td class='table-blue-td' style='text-align:right;'>0</td>
+  </tr>
+ </tbody>
+</table>

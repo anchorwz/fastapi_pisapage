@@ -1,0 +1,47 @@
+<table id='jscofe_report-monomer_summary_4-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Summary over all interfaces'>Interfaces</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Summary over monomer surface'>Surface</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total summary'>Total</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Summary for atoms'>Atoms</th>
+<td class='table-blue-td' style='text-align:right;'>720</td>
+<td class='table-blue-td' style='text-align:right;'>1921</td>
+<td class='table-blue-td' style='text-align:right;'>3183</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Summary for residues'>Residues</th>
+<td class='table-blue-td' style='text-align:right;'>226</td>
+<td class='table-blue-td' style='text-align:right;'>385</td>
+<td class='table-blue-td' style='text-align:right;'>408</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Summary for surface area'>Area, &Aring;<sup>2</sup></th>
+<td class='table-blue-td' style='text-align:right;'>  6860.1</td>
+<td class='table-blue-td' style='text-align:right;'> 22072.6</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Summary for solvation energy'>Solvation energy, kcal/mol</th>
+<td class='table-blue-td' style='text-align:right;'>   -18.3</td>
+<td class='table-blue-td' style='text-align:right;'>   -36.3</td>
+<td class='table-blue-td' style='text-align:right;'>  -334.3(*)</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of hydrogen bonds'>Hydrogen bonds</th>
+<td class='table-blue-td' style='text-align:right;'>49</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of salt bridges'>Salt bridges</th>
+<td class='table-blue-td' style='text-align:right;'>50</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of disulphide bonds'>Disulphide bonds</th>
+<td class='table-blue-td' style='text-align:right;'>0</td>
+  </tr>
+ </tbody>
+</table>

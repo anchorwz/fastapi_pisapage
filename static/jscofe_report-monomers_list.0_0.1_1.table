@@ -1,0 +1,114 @@
+<table id='jscofe_report-monomers_list-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer type'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer selection range'>Monomer</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer chemical type'>Class</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of atoms in monomer'>N<sub>at</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of residues in monomer'>N<sub>res</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of surface atoms in monomer'>S<sub>at</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of surface residues in monomer'>S<sub>res</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total surface area of monomer'>Area, &Aring;<sup>2</sup></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Solvation energy of folding'>Delta G, kcal/mol</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>     A     </td>
+<td class='table-blue-td' style='text-align:right;'>Protein</td>
+<td class='table-blue-td' style='text-align:right;'>1328</td>
+<td class='table-blue-td' style='text-align:right;'>174</td>
+<td class='table-blue-td' style='text-align:right;'>722</td>
+<td class='table-blue-td' style='text-align:right;'>147</td>
+<td class='table-blue-td' style='text-align:right;'>   8578.1</td>
+<td class='table-blue-td' style='text-align:right;'> -157.1</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>     B     </td>
+<td class='table-blue-td' style='text-align:right;'>Protein</td>
+<td class='table-blue-td' style='text-align:right;'>1328</td>
+<td class='table-blue-td' style='text-align:right;'>174</td>
+<td class='table-blue-td' style='text-align:right;'>712</td>
+<td class='table-blue-td' style='text-align:right;'>144</td>
+<td class='table-blue-td' style='text-align:right;'>   8561.7</td>
+<td class='table-blue-td' style='text-align:right;'> -159.0</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>     C     </td>
+<td class='table-blue-td' style='text-align:right;'>Protein</td>
+<td class='table-blue-td' style='text-align:right;'>1328</td>
+<td class='table-blue-td' style='text-align:right;'>174</td>
+<td class='table-blue-td' style='text-align:right;'>709</td>
+<td class='table-blue-td' style='text-align:right;'>137</td>
+<td class='table-blue-td' style='text-align:right;'>   8459.0</td>
+<td class='table-blue-td' style='text-align:right;'> -155.6</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>     D     </td>
+<td class='table-blue-td' style='text-align:right;'>Protein</td>
+<td class='table-blue-td' style='text-align:right;'>1328</td>
+<td class='table-blue-td' style='text-align:right;'>174</td>
+<td class='table-blue-td' style='text-align:right;'>720</td>
+<td class='table-blue-td' style='text-align:right;'>143</td>
+<td class='table-blue-td' style='text-align:right;'>   8598.4</td>
+<td class='table-blue-td' style='text-align:right;'> -153.3</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>5</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:left;'>     E     </td>
+<td class='table-blue-alt' style='text-align:right;'>Protein</td>
+<td class='table-blue-alt' style='text-align:right;'>3183</td>
+<td class='table-blue-alt' style='text-align:right;'>408</td>
+<td class='table-blue-alt' style='text-align:right;'>1921</td>
+<td class='table-blue-alt' style='text-align:right;'>385</td>
+<td class='table-blue-alt' style='text-align:right;'>  22072.6</td>
+<td class='table-blue-alt' style='text-align:right;'> -334.3</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>6</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:left;'>     F     </td>
+<td class='table-blue-alt' style='text-align:right;'>Protein</td>
+<td class='table-blue-alt' style='text-align:right;'>3184</td>
+<td class='table-blue-alt' style='text-align:right;'>409</td>
+<td class='table-blue-alt' style='text-align:right;'>1925</td>
+<td class='table-blue-alt' style='text-align:right;'>380</td>
+<td class='table-blue-alt' style='text-align:right;'>  22253.4</td>
+<td class='table-blue-alt' style='text-align:right;'> -331.9</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:left;'>[ANP]E:500 </td>
+<td class='table-blue-td' style='text-align:right;'>Ligand</td>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>    632.3</td>
+<td class='table-blue-td' style='text-align:right;'></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>8</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:left;'>[ANP]F:501 </td>
+<td class='table-blue-td' style='text-align:right;'>Ligand</td>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>    615.2</td>
+<td class='table-blue-td' style='text-align:right;'></td>
+  </tr>
+ </tbody>
+</table>

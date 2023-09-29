@@ -1,0 +1,6 @@
+NEST_GRID_COMPACT:::jscofe_report-interface_res_panel_19:::jscofe_report-interfaces_tree:::1:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>Interface [ANP]E:500 || F</h2>:::jscofe_report-interface_res_panel_19:::0:::0:::1:::3;;;
+ADD_DROPDOWN:::jscofe_report-interface_res_19_1_table:::Residue table for Monomer 1:::jscofe_report-interface_res_panel_19:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-interface_res_19_1_table:::jscofe_report-interface_res_19_1.1_0.1_1.table:::false::: ;;;
+ADD_DROPDOWN:::jscofe_report-interface_res_19_2_table:::Residue table for Monomer 2:::jscofe_report-interface_res_panel_19:::1:::1:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-interface_res_19_2_table:::jscofe_report-interface_res_19_2.1_1.1_1.table:::false::: ;;;

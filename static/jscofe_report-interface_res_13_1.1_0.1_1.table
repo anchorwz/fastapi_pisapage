@@ -1,0 +1,24 @@
+<table id='jscofe_report-interface_res_13_1-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='"I": Interface residue, "s": Surface residue'>IS</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Residue Id as c:nsi, where "c" is chain id, "n" residue name, "s" sequence number and "i" insertion code'>Residue</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='"H": Hydrogen bond, "S": Salt bridge'>HS</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Acessible Surface Area, in &Aring;&sup2;'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Buried Surface Area, in &Aring;&sup2;'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Hydrophobic effect, in kcal/mol'>Delta G</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>I</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>H&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'> 632.31</td>
+<td class='table-blue-td' style='text-align:right;'> 542.75</td>
+<td class='table-blue-td' style='text-align:right;'> -0.99</td>
+  </tr>
+ </tbody>
+</table>

@@ -1,0 +1,77 @@
+<table id='jscofe_report-assembly_table_monomers_32-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer serial number in assembly'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer identifier'>Monomer</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer chemical class'>Class</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer structural type. Monomers of same structural type are structurally similar'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Symmetry operation that puts the monomer on its place in assembly'>Sym. op-n</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='In N_XYZ, N is the symmetry operation number, XYZ is unit cell position.'>Sym. ID</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total surface area of the monomer, in square angstroms'>Area</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total buried surface area of the monomer in assembly, in square angstroms'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total solvation energy gain for
+monomer in assembly, kcal/mol'>Delta G</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of hydrogen bonds to the monomer in assembly'>N<sub>hb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of salt bridges to the monomer in assembly'>N<sub>sb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of disulphide bonds to the monomer in assembly'>N<sub>ds</sub></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td'>1</td>
+<td class='table-blue-td'>     E     </td>
+<td class='table-blue-td'><i>Protein</i></td>
+<td class='table-blue-td'>2</td>
+<td class='table-blue-td'>X,Y,Z</td>
+<td class='table-blue-td'>1_555</td>
+<td class='table-blue-td'>22072.6</td>
+<td class='table-blue-td'>1155.7</td>
+<td class='table-blue-td'>-4.1</td>
+<td class='table-blue-td'>21</td>
+<td class='table-blue-td'>0</td>
+<td class='table-blue-td'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt'>2</td>
+<td class='table-blue-alt'>[ANP]E:500 </td>
+<td class='table-blue-alt'><i>Ligand</i></td>
+<td class='table-blue-alt'>3</td>
+<td class='table-blue-alt'>X,Y,Z</td>
+<td class='table-blue-alt'>1_555</td>
+<td class='table-blue-alt'>632.3</td>
+<td class='table-blue-alt'>426.4</td>
+<td class='table-blue-alt'>1.0</td>
+<td class='table-blue-alt'>19</td>
+<td class='table-blue-alt'>0</td>
+<td class='table-blue-alt'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-td'>3</td>
+<td class='table-blue-td'>     E     </td>
+<td class='table-blue-td'><i>Protein</i></td>
+<td class='table-blue-td'>2</td>
+<td class='table-blue-td'>X-Y+1,-Y+2,-Z</td>
+<td class='table-blue-td'>7_675</td>
+<td class='table-blue-td'>22072.6</td>
+<td class='table-blue-td'>1155.7</td>
+<td class='table-blue-td'>-4.1</td>
+<td class='table-blue-td'>21</td>
+<td class='table-blue-td'>0</td>
+<td class='table-blue-td'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt'>4</td>
+<td class='table-blue-alt'>[ANP]E:500 </td>
+<td class='table-blue-alt'><i>Ligand</i></td>
+<td class='table-blue-alt'>3</td>
+<td class='table-blue-alt'>X-Y+1,-Y+2,-Z</td>
+<td class='table-blue-alt'>7_675</td>
+<td class='table-blue-alt'>632.3</td>
+<td class='table-blue-alt'>426.4</td>
+<td class='table-blue-alt'>1.0</td>
+<td class='table-blue-alt'>19</td>
+<td class='table-blue-alt'>0</td>
+<td class='table-blue-alt'>0</td>
+  </tr>
+ </tbody>
+</table>

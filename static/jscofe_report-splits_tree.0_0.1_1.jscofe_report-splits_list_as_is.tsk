@@ -1,0 +1,4 @@
+ADD_PANEL:::jscofe_report-splits_list_as_is:::jscofe_report-splits_tree:::0:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>No-crystal analysis</h2>:::jscofe_report-splits_list_as_is:::0:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-splits_list_as_is_table_table:::This structure represents the content of input file as if it were a standalone complex in solution:::jscofe_report-splits_list_as_is:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-splits_list_as_is_table_table:::jscofe_report-splits_list_as_is_table.1_0.1_1.table:::false::: ;;;

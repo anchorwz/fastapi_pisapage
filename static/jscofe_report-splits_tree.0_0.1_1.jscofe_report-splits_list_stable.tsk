@@ -1,0 +1,4 @@
+ADD_PANEL:::jscofe_report-splits_list_stable:::jscofe_report-splits_tree:::0:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>Crystal splits in Stable Assemblies</h2>:::jscofe_report-splits_list_stable:::0:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-splits_list_stable_table_table:::The following quaternary structures appear to be stable in solution:::jscofe_report-splits_list_stable:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-splits_list_stable_table_table:::jscofe_report-splits_list_stable_table.1_0.1_1.table:::false::: ;;;

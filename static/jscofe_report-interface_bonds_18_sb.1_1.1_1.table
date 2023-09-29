@@ -1,0 +1,18 @@
+<table id='jscofe_report-interface_bonds_18_sb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;375&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5038</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;A:GLU&nbsp;169&nbsp;[&nbsp;OE2]</td>
+  </tr>
+ </tbody>
+</table>

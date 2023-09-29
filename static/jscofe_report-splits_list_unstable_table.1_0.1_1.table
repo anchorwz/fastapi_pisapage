@@ -1,0 +1,299 @@
+<table id='jscofe_report-splits_list_unstable_table-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Each split represents a particular way of disassembling crystal into assemblies.'>Split No.</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of macromolecular chains in the assembly.'>Size</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly type Id. Similar assemblies have same type Ids.'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Accessible Solvent Area of the assembly, in &Aring;&sup2;.'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Buried Surface Area of the assembly,  in &Aring;&sup2;.'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard Free Energy of dissociation into nearest stable assemblies with a positive dG_diss, in kcal/mol.'>dG_diss</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard free Energy of dissociation into monomeric units (ground state), in kcal/mol.'>dG0</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Chemical formula of the assembly. In the formula, monomeric units of the same chemical type are represented by the same letter. Capital letters stand for macromolecules and small letters denote ligands.'>Formula</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly Composition shows particular macromolecular chains and ligands found in the assembly.'>Composition</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>13</td>
+<td class='table-blue-td' style='text-align:right;' rowspan='4'>4</td>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>77219.3</td>
+<td class='table-blue-td' style='text-align:right;'>25619.7</td>
+<td class='table-blue-td' style='text-align:right;'>31.6</td>
+<td class='table-blue-td' style='text-align:right;'>31.6</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>14</td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='text-align:right;'>29330.1</td>
+<td class='table-blue-td' style='text-align:right;'>4784.6</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>15</td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>42245.7</td>
+<td class='table-blue-td' style='text-align:right;'>3164.2</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:left;'>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>16</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>22032.5</td>
+<td class='table-blue-td' style='text-align:right;'>836.1</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:left;'>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>F[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>17</td>
+<td class='table-blue-alt' style='text-align:right;' rowspan='4'>5</td>
+<td class='table-blue-alt' style='text-align:right;'>12</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>77219.3</td>
+<td class='table-blue-alt' style='text-align:right;'>25619.7</td>
+<td class='table-blue-alt' style='text-align:right;'>31.6</td>
+<td class='table-blue-alt' style='text-align:right;'>31.6</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>12</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>18</td>
+<td class='table-blue-alt' style='text-align:right;'>12</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>77204.3</td>
+<td class='table-blue-alt' style='text-align:right;'>25140.0</td>
+<td class='table-blue-alt' style='text-align:right;'>22.4</td>
+<td class='table-blue-alt' style='text-align:right;'>46.7</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>12</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>C<sub>6</sub>D<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>19</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>6</td>
+<td class='table-blue-alt' style='text-align:right;'>42245.7</td>
+<td class='table-blue-alt' style='text-align:right;'>3164.2</td>
+<td class='table-blue-alt' style='text-align:right;'>-5.1</td>
+<td class='table-blue-alt' style='text-align:right;'>-5.1</td>
+<td class='table-blue-alt' style='text-align:left;'>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>20</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>3</td>
+<td class='table-blue-alt' style='text-align:right;'>22032.5</td>
+<td class='table-blue-alt' style='text-align:right;'>836.1</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:left;'>Ba</td>
+<td class='table-blue-alt' style='text-align:left;'>F[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>21</td>
+<td class='table-blue-td' style='text-align:right;' rowspan='4'>6</td>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>77219.3</td>
+<td class='table-blue-td' style='text-align:right;'>25619.7</td>
+<td class='table-blue-td' style='text-align:right;'>31.6</td>
+<td class='table-blue-td' style='text-align:right;'>31.6</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>22</td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='text-align:right;'>29330.1</td>
+<td class='table-blue-td' style='text-align:right;'>4784.6</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>23</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>21852.2</td>
+<td class='table-blue-td' style='text-align:right;'>852.8</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:left;'>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>E[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>22032.5</td>
+<td class='table-blue-td' style='text-align:right;'>836.1</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:left;'>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>F[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>25</td>
+<td class='table-blue-alt' style='text-align:right;' rowspan='5'>7</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>7</td>
+<td class='table-blue-alt' style='text-align:right;'>16009.8</td>
+<td class='table-blue-alt' style='text-align:right;'>908.2</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.1</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.1</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>C<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>26</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>7</td>
+<td class='table-blue-alt' style='text-align:right;'>16253.8</td>
+<td class='table-blue-alt' style='text-align:right;'>902.4</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.3</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.3</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>27</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>7</td>
+<td class='table-blue-alt' style='text-align:right;'>16244.8</td>
+<td class='table-blue-alt' style='text-align:right;'>878.7</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.6</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.6</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>B<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>28</td>
+<td class='table-blue-alt' style='text-align:right;'>6</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>104504.6</td>
+<td class='table-blue-alt' style='text-align:right;'>32216.1</td>
+<td class='table-blue-alt' style='text-align:right;'>73.9</td>
+<td class='table-blue-alt' style='text-align:right;'>73.9</td>
+<td class='table-blue-alt' style='text-align:left;'>B<sub>6</sub>a<sub>6</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>E<sub>3</sub>F<sub>3</sub>[ANP]<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>29</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>4</td>
+<td class='table-blue-alt' style='text-align:right;'>8598.4</td>
+<td class='table-blue-alt' style='text-align:right;'>0.0</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:left;'>A</td>
+<td class='table-blue-alt' style='text-align:left;'>D</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>30</td>
+<td class='table-blue-td' style='text-align:right;' rowspan='4'>8</td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>8</td>
+<td class='table-blue-td' style='text-align:right;'>15943.5</td>
+<td class='table-blue-td' style='text-align:right;'>1196.3</td>
+<td class='table-blue-td' style='text-align:right;'>-2.1</td>
+<td class='table-blue-td' style='text-align:right;'>-2.1</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>AB</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='text-align:right;'>28130.9</td>
+<td class='table-blue-td' style='text-align:right;'>5983.9</td>
+<td class='table-blue-td' style='text-align:right;'>8.1</td>
+<td class='table-blue-td' style='text-align:right;'>8.1</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>32</td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>42245.7</td>
+<td class='table-blue-td' style='text-align:right;'>3164.2</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:left;'>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>33</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>22032.5</td>
+<td class='table-blue-td' style='text-align:right;'>836.1</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:right;'>-0.0</td>
+<td class='table-blue-td' style='text-align:left;'>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>F[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>34</td>
+<td class='table-blue-alt' style='text-align:right;' rowspan='4'>9</td>
+<td class='table-blue-alt' style='text-align:right;'>2</td>
+<td class='table-blue-alt' style='text-align:right;'>8</td>
+<td class='table-blue-alt' style='text-align:right;'>15943.5</td>
+<td class='table-blue-alt' style='text-align:right;'>1196.3</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.1</td>
+<td class='table-blue-alt' style='text-align:right;'>-2.1</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>AB</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>35</td>
+<td class='table-blue-alt' style='text-align:right;'>4</td>
+<td class='table-blue-alt' style='text-align:right;'>5</td>
+<td class='table-blue-alt' style='text-align:right;'>28130.9</td>
+<td class='table-blue-alt' style='text-align:right;'>5983.9</td>
+<td class='table-blue-alt' style='text-align:right;'>8.1</td>
+<td class='table-blue-alt' style='text-align:right;'>8.1</td>
+<td class='table-blue-alt' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-alt' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>36</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>3</td>
+<td class='table-blue-alt' style='text-align:right;'>21852.2</td>
+<td class='table-blue-alt' style='text-align:right;'>852.8</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:left;'>Ba</td>
+<td class='table-blue-alt' style='text-align:left;'>E[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-alt' style='text-align:right;'>37</td>
+<td class='table-blue-alt' style='text-align:right;'>1</td>
+<td class='table-blue-alt' style='text-align:right;'>3</td>
+<td class='table-blue-alt' style='text-align:right;'>22032.5</td>
+<td class='table-blue-alt' style='text-align:right;'>836.1</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:right;'>-0.0</td>
+<td class='table-blue-alt' style='text-align:left;'>Ba</td>
+<td class='table-blue-alt' style='text-align:left;'>F[ANP]</td>
+  </tr>
+ </tbody>
+</table>

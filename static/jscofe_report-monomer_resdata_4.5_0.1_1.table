@@ -1,0 +1,3285 @@
+<table id='jscofe_report-monomer_resdata_4-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Residue serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Residue ID: chain:name seqNo[insCode]'>Residue</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Accessible Surface Area, &Aring;&sup2;'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Sum contribution into the Buried Surface Area of all interfaces, formed by the monomer, in &Aring;&sup2;'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Solvation effect, in kcal/mol'>SEF</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Sum contribution into Solvation Energy of all interfaces, formed by the monomer, in kcal/mol'>Delta G</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;&nbsp;&nbsp;1&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   148.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;&nbsp;&nbsp;2&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    37.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.39</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;&nbsp;3&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   129.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.63</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;&nbsp;&nbsp;4&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    48.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.99</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;&nbsp;5&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    50.78</td>
+<td class='table-blue-td' style='text-align:right;'>    19.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.68</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.31</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;&nbsp;&nbsp;6&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    35.36</td>
+<td class='table-blue-td' style='text-align:right;'>    34.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.57</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.55</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   185.93</td>
+<td class='table-blue-td' style='text-align:right;'>    98.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.46</td>
+<td class='table-blue-td' style='text-align:right;'>     1.28</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>8</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;&nbsp;8&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    86.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>9</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;&nbsp;9&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>10</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;10&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    18.74</td>
+<td class='table-blue-td' style='text-align:right;'>     8.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.30</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.14</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>11</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;&nbsp;11&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    65.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;12&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    47.80</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>13</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;13&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.67</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>14</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;&nbsp;14&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    69.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>15</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;15&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    93.65</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>16</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;&nbsp;16&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    44.07</td>
+<td class='table-blue-td' style='text-align:right;'>    16.22</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.39</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>17</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;17&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    10.07</td>
+<td class='table-blue-td' style='text-align:right;'>     9.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.15</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>18</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;18&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     8.42</td>
+<td class='table-blue-td' style='text-align:right;'>     3.82</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.04</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>19</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;19&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.93</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>20</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;&nbsp;20&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    20.66</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>21</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;&nbsp;21&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    60.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>22</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;&nbsp;22&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    95.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>23</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;23&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.15</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;24&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>25</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;25&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   118.83</td>
+<td class='table-blue-td' style='text-align:right;'>    36.17</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.53</td>
+<td class='table-blue-td' style='text-align:right;'>     0.19</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>26</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;&nbsp;26&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.84</td>
+<td class='table-blue-td' style='text-align:right;'>    10.63</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.08</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>27</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;27&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>28</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;28&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>29</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;29&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    74.04</td>
+<td class='table-blue-td' style='text-align:right;'>    70.69</td>
+<td class='table-blue-td' style='text-align:right;'>     1.18</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>30</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;30&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.80</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>31</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;31&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     8.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>32</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;32&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.78</td>
+<td class='table-blue-td' style='text-align:right;'>    16.89</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.93</td>
+<td class='table-blue-td' style='text-align:right;'>     0.57</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>33</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;&nbsp;33&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.20</td>
+<td class='table-blue-td' style='text-align:right;'>    12.72</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>34</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;34&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    20.52</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>35</td>
+<td class='table-blue-td' style='text-align:left;'>E:TRP&nbsp;&nbsp;35&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    73.95</td>
+<td class='table-blue-td' style='text-align:right;'>    25.80</td>
+<td class='table-blue-td' style='text-align:right;'>     1.02</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.41</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>36</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;36&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   102.88</td>
+<td class='table-blue-td' style='text-align:right;'>   102.88</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.00</td>
+<td class='table-blue-td' style='text-align:right;'>     2.61</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>37</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;37&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    23.63</td>
+<td class='table-blue-td' style='text-align:right;'>     1.44</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.37</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>38</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;&nbsp;38&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   108.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.26</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>39</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;&nbsp;39&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   105.52</td>
+<td class='table-blue-td' style='text-align:right;'>    14.52</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.63</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.19</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>40</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;40&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    70.62</td>
+<td class='table-blue-td' style='text-align:right;'>    44.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.85</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.71</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>41</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;&nbsp;41&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    74.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>42</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;42&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   116.46</td>
+<td class='table-blue-td' style='text-align:right;'>     6.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.10</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>43</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;43&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   117.35</td>
+<td class='table-blue-td' style='text-align:right;'>    28.59</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>44</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;44&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    79.41</td>
+<td class='table-blue-td' style='text-align:right;'>    59.50</td>
+<td class='table-blue-td' style='text-align:right;'>     1.27</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.95</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>45</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;45&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    66.93</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>46</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;&nbsp;46&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   121.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>47</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;47&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   117.65</td>
+<td class='table-blue-td' style='text-align:right;'>    73.32</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.56</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>48</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;48&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    49.11</td>
+<td class='table-blue-td' style='text-align:right;'>    41.58</td>
+<td class='table-blue-td' style='text-align:right;'>     0.78</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.67</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>49</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;49&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    42.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>50</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;&nbsp;50&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    20.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.25</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>51</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;51&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    85.07</td>
+<td class='table-blue-td' style='text-align:right;'>    51.80</td>
+<td class='table-blue-td' style='text-align:right;'>     0.45</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>52</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;&nbsp;52&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>53</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;53&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.67</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>54</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;54&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>55</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;&nbsp;55&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>56</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;56&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    27.05</td>
+<td class='table-blue-td' style='text-align:right;'>    18.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.41</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.29</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>57</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;57&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     6.44</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>58</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;&nbsp;58&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    56.89</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.89</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>59</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;59&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    78.70</td>
+<td class='table-blue-td' style='text-align:right;'>    50.41</td>
+<td class='table-blue-td' style='text-align:right;'>     0.65</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.71</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>60</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;60&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    13.78</td>
+<td class='table-blue-td' style='text-align:right;'>    13.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.16</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>61</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;61&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     7.64</td>
+<td class='table-blue-td' style='text-align:right;'>     4.62</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>62</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;62&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    16.18</td>
+<td class='table-blue-td' style='text-align:right;'>    16.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>63</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;63&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    22.13</td>
+<td class='table-blue-td' style='text-align:right;'>    19.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>64</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;64&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    26.71</td>
+<td class='table-blue-td' style='text-align:right;'>    26.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.10</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>65</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;65&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    64.07</td>
+<td class='table-blue-td' style='text-align:right;'>    45.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.54</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>66</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;66&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>67</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;67&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>68</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;68&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   106.10</td>
+<td class='table-blue-td' style='text-align:right;'>    44.62</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.27</td>
+<td class='table-blue-td' style='text-align:right;'>     0.86</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>69</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;&nbsp;69&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    73.63</td>
+<td class='table-blue-td' style='text-align:right;'>    32.93</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.76</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>70</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;70&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>71</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;71&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     2.68</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>72</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;72&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   139.70</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.56</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>73</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;&nbsp;73&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    38.32</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>74</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;74&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     8.44</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>75</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;&nbsp;75&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    84.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>76</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;76&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     7.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>77</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;&nbsp;77&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>78</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;&nbsp;78&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    38.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>79</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;79&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.62</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>80</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;80&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    64.59</td>
+<td class='table-blue-td' style='text-align:right;'>    49.91</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.99</td>
+<td class='table-blue-td' style='text-align:right;'>     1.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>81</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;81&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     5.86</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>82</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;82&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.86</td>
+<td class='table-blue-td' style='text-align:right;'>    63.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.38</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.35</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>83</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;&nbsp;83&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>84</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;84&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    45.40</td>
+<td class='table-blue-td' style='text-align:right;'>    16.75</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>85</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;85&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    85.37</td>
+<td class='table-blue-td' style='text-align:right;'>    26.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.15</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.42</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>86</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;&nbsp;86&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.64</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>87</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;&nbsp;87&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    43.56</td>
+<td class='table-blue-td' style='text-align:right;'>    16.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.26</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>88</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;88&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   115.28</td>
+<td class='table-blue-td' style='text-align:right;'>    91.31</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.56</td>
+<td class='table-blue-td' style='text-align:right;'>     0.73</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>89</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;89&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    51.11</td>
+<td class='table-blue-td' style='text-align:right;'>    30.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>90</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;90&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    66.52</td>
+<td class='table-blue-td' style='text-align:right;'>    55.81</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>91</td>
+<td class='table-blue-td' style='text-align:left;'>E:TYR&nbsp;&nbsp;91&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   194.96</td>
+<td class='table-blue-td' style='text-align:right;'>    87.56</td>
+<td class='table-blue-td' style='text-align:right;'>     1.51</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>92</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;92&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   129.39</td>
+<td class='table-blue-td' style='text-align:right;'>   113.42</td>
+<td class='table-blue-td' style='text-align:right;'>     1.80</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.59</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>93</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;&nbsp;93&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    31.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>94</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;&nbsp;94&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    85.34</td>
+<td class='table-blue-td' style='text-align:right;'>     8.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.72</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>95</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;&nbsp;95&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    77.74</td>
+<td class='table-blue-td' style='text-align:right;'>     6.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.11</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>96</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;&nbsp;96&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     6.76</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>97</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;&nbsp;97&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    59.15</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>98</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;&nbsp;98&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>99</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;&nbsp;99&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>100</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;100&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.65</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>101</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;101&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    76.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>102</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;102&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    56.23</td>
+<td class='table-blue-td' style='text-align:right;'>     4.38</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.37</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.07</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>103</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;103&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>104</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;104&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>105</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;105&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    62.10</td>
+<td class='table-blue-td' style='text-align:right;'>    45.97</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.16</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>106</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;106&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    43.87</td>
+<td class='table-blue-td' style='text-align:right;'>    19.91</td>
+<td class='table-blue-td' style='text-align:right;'>     0.62</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.32</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>107</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;107&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>108</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;108&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    33.85</td>
+<td class='table-blue-td' style='text-align:right;'>     8.87</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.14</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>109</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;109&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   134.22</td>
+<td class='table-blue-td' style='text-align:right;'>   101.88</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.91</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>110</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;110&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    41.53</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>111</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;111&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>112</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;112&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   129.00</td>
+<td class='table-blue-td' style='text-align:right;'>     5.24</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.92</td>
+<td class='table-blue-td' style='text-align:right;'>     0.19</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>113</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;113&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    75.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.19</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>114</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;114&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    76.51</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>115</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;115&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.96</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>116</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;116&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    67.45</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>117</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;117&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    72.19</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>118</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;118&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   156.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>119</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;119&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>120</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;120&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   124.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>121</td>
+<td class='table-blue-td' style='text-align:left;'>E:TYR&nbsp;121&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   156.20</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>122</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;122&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   113.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>123</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;123&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>124</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;124&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    94.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.82</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>125</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;125&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    65.65</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>126</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;126&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    34.97</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.56</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>127</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;127&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>128</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;128&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.52</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>129</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;129&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    69.80</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>130</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;130&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    57.66</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>131</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;131&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.68</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>132</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;132&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>133</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;133&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    57.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>134</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;134&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    50.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>135</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;135&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    53.20</td>
+<td class='table-blue-td' style='text-align:right;'>    12.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>136</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;136&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    42.50</td>
+<td class='table-blue-td' style='text-align:right;'>    42.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.68</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.68</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>137</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;137&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    92.39</td>
+<td class='table-blue-td' style='text-align:right;'>    23.48</td>
+<td class='table-blue-td' style='text-align:right;'>     1.06</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.08</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>138</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;138&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    71.84</td>
+<td class='table-blue-td' style='text-align:right;'>     1.51</td>
+<td class='table-blue-td' style='text-align:right;'>     0.76</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>139</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;139&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    83.79</td>
+<td class='table-blue-td' style='text-align:right;'>    19.81</td>
+<td class='table-blue-td' style='text-align:right;'>     0.95</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.24</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>140</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;140&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   170.26</td>
+<td class='table-blue-td' style='text-align:right;'>     1.96</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>141</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;141&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   115.28</td>
+<td class='table-blue-td' style='text-align:right;'>    60.57</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.63</td>
+<td class='table-blue-td' style='text-align:right;'>     0.55</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>142</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;142&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   100.65</td>
+<td class='table-blue-td' style='text-align:right;'>     8.09</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.09</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>143</td>
+<td class='table-blue-td' style='text-align:left;'>E:TRP&nbsp;143&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   186.91</td>
+<td class='table-blue-td' style='text-align:right;'>   142.61</td>
+<td class='table-blue-td' style='text-align:right;'>     2.06</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.46</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>144</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;144&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.58</td>
+<td class='table-blue-td' style='text-align:right;'>    31.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>145</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;145&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   120.42</td>
+<td class='table-blue-td' style='text-align:right;'>     5.91</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.76</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>146</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;146&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   120.41</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.99</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>147</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;147&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>148</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;148&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   107.73</td>
+<td class='table-blue-td' style='text-align:right;'>    21.57</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.60</td>
+<td class='table-blue-td' style='text-align:right;'>     0.27</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>149</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;149&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   111.58</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>150</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;150&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    58.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>151</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;151&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   108.71</td>
+<td class='table-blue-td' style='text-align:right;'>    47.20</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.49</td>
+<td class='table-blue-td' style='text-align:right;'>     0.20</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>152</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;152&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    36.18</td>
+<td class='table-blue-td' style='text-align:right;'>    21.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.57</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.33</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>153</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;153&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>154</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;154&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    78.85</td>
+<td class='table-blue-td' style='text-align:right;'>    43.40</td>
+<td class='table-blue-td' style='text-align:right;'>     1.04</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.58</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>155</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;155&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    49.01</td>
+<td class='table-blue-td' style='text-align:right;'>    48.73</td>
+<td class='table-blue-td' style='text-align:right;'>     0.69</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.69</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>156</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;156&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>157</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;157&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    91.86</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>158</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;158&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    38.09</td>
+<td class='table-blue-td' style='text-align:right;'>    19.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.60</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.32</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>159</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;159&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.00</td>
+<td class='table-blue-td' style='text-align:right;'>    37.79</td>
+<td class='table-blue-td' style='text-align:right;'>     1.05</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.60</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>160</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;160&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    86.20</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>161</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;161&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   154.67</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>162</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;162&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   127.30</td>
+<td class='table-blue-td' style='text-align:right;'>    32.42</td>
+<td class='table-blue-td' style='text-align:right;'>     0.92</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>163</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;163&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    25.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>164</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;164&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   142.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>165</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;165&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    79.27</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>166</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;166&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    55.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>167</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;167&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    86.57</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.48</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>168</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;168&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   133.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.60</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>169</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;169&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    49.26</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>170</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;170&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    91.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.51</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>171</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;171&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    24.86</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>172</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;172&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   102.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>173</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;173&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.64</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.25</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>174</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;174&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   119.76</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>175</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;210&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   166.75</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>176</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;211&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    75.32</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.62</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>177</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;212&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    49.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>178</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;213&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    77.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>179</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;214&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   161.79</td>
+<td class='table-blue-td' style='text-align:right;'>    61.38</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.25</td>
+<td class='table-blue-td' style='text-align:right;'>     1.30</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>180</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;215&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    71.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.44</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>181</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;216&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    37.49</td>
+<td class='table-blue-td' style='text-align:right;'>     1.85</td>
+<td class='table-blue-td' style='text-align:right;'>     0.45</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>182</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;217&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    31.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>183</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;218&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     9.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>184</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;219&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    23.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>185</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;220&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    80.42</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>186</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;221&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>187</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;222&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    29.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.49</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>188</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;223&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    92.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>189</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;224&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    63.29</td>
+<td class='table-blue-td' style='text-align:right;'>    24.69</td>
+<td class='table-blue-td' style='text-align:right;'>     1.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.40</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>190</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;225&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>191</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;226&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    55.60</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.89</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>192</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;227&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   110.67</td>
+<td class='table-blue-td' style='text-align:right;'>    41.31</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.55</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>193</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;228&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    58.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>194</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;229&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>195</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;230&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     9.57</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.15</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>196</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;231&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    57.49</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>197</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;232&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   144.81</td>
+<td class='table-blue-td' style='text-align:right;'>    13.99</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>198</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;233&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    93.49</td>
+<td class='table-blue-td' style='text-align:right;'>    28.59</td>
+<td class='table-blue-td' style='text-align:right;'>     1.10</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.42</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>199</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;234&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    36.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>200</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;235&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    70.26</td>
+<td class='table-blue-td' style='text-align:right;'>    14.55</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>201</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;236&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    99.91</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>202</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;237&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    97.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>203</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;238&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    91.46</td>
+<td class='table-blue-td' style='text-align:right;'>    21.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>204</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;239&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.49</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>205</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;240&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    84.19</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.55</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>206</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;241&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    76.18</td>
+<td class='table-blue-td' style='text-align:right;'>    15.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>207</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;242&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    49.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>208</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;243&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>209</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;244&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    21.59</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>210</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;245&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    65.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>211</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;246&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.68</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>212</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;247&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>213</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;248&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    42.43</td>
+<td class='table-blue-td' style='text-align:right;'>     9.85</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>214</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;249&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    57.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>215</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;250&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>216</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;251&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>217</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;252&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.51</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>218</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;253&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>219</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;254&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.78</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>220</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;255&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>221</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;256&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    31.08</td>
+<td class='table-blue-td' style='text-align:right;'>    31.08</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.44</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>222</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;257&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    18.13</td>
+<td class='table-blue-td' style='text-align:right;'>    12.87</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>223</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;258&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>224</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;259&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     7.75</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>225</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;260&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   116.36</td>
+<td class='table-blue-td' style='text-align:right;'>    21.81</td>
+<td class='table-blue-td' style='text-align:right;'>     0.27</td>
+<td class='table-blue-td' style='text-align:right;'>     0.43</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>226</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;261&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>227</td>
+<td class='table-blue-td' style='text-align:left;'>E:CYS&nbsp;262&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     2.82</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>228</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;263&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    94.99</td>
+<td class='table-blue-td' style='text-align:right;'>     3.07</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.98</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>229</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;264&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   107.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.76</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>230</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;265&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    70.45</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>231</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;266&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   115.93</td>
+<td class='table-blue-td' style='text-align:right;'>     1.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.08</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>232</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;267&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    52.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>233</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;268&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    80.32</td>
+<td class='table-blue-td' style='text-align:right;'>     0.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.38</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>234</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;269&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    53.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>235</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;270&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    48.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.76</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>236</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;271&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    23.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>237</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;272&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   114.61</td>
+<td class='table-blue-td' style='text-align:right;'>    32.69</td>
+<td class='table-blue-td' style='text-align:right;'>     1.74</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.44</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>238</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;273&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.62</td>
+<td class='table-blue-td' style='text-align:right;'>     7.53</td>
+<td class='table-blue-td' style='text-align:right;'>     0.36</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>239</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;274&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    56.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.73</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>240</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;275&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    44.76</td>
+<td class='table-blue-td' style='text-align:right;'>     1.35</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>241</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;276&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    22.44</td>
+<td class='table-blue-td' style='text-align:right;'>    11.20</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.18</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>242</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;277&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.60</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>243</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;278&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>244</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;279&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   118.08</td>
+<td class='table-blue-td' style='text-align:right;'>   102.19</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.75</td>
+<td class='table-blue-td' style='text-align:right;'>     0.48</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>245</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;280&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    62.83</td>
+<td class='table-blue-td' style='text-align:right;'>    38.06</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.46</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>246</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;281&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>247</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;282&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    18.91</td>
+<td class='table-blue-td' style='text-align:right;'>    18.91</td>
+<td class='table-blue-td' style='text-align:right;'>     0.30</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.30</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>248</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;283&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    55.72</td>
+<td class='table-blue-td' style='text-align:right;'>    14.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.89</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.24</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>249</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;284&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>250</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;285&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     9.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>251</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;286&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    93.50</td>
+<td class='table-blue-td' style='text-align:right;'>    57.19</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.25</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>252</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;287&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    26.74</td>
+<td class='table-blue-td' style='text-align:right;'>    10.32</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>253</td>
+<td class='table-blue-td' style='text-align:left;'>E:CYS&nbsp;288&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    34.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.73</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>254</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;289&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    79.26</td>
+<td class='table-blue-td' style='text-align:right;'>    43.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.35</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>255</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;290&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     8.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>256</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;291&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.53</td>
+<td class='table-blue-td' style='text-align:right;'>    29.68</td>
+<td class='table-blue-td' style='text-align:right;'>     0.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>257</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;292&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.91</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>258</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;293&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   164.68</td>
+<td class='table-blue-td' style='text-align:right;'>    24.18</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.67</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>259</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;294&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    29.65</td>
+<td class='table-blue-td' style='text-align:right;'>     3.68</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.05</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>260</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;295&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    25.70</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>261</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;296&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   106.17</td>
+<td class='table-blue-td' style='text-align:right;'>    66.51</td>
+<td class='table-blue-td' style='text-align:right;'>     2.10</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.60</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>262</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;297&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>263</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;298&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   102.03</td>
+<td class='table-blue-td' style='text-align:right;'>    17.45</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.85</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.28</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>264</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;299&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>265</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;300&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    40.98</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>266</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;301&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    31.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>267</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;302&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>268</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;303&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>269</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;304&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>270</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;305&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>271</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;306&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.67</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>272</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;307&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.62</td>
+<td class='table-blue-td' style='text-align:right;'>     0.24</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>273</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;308&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>274</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;309&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    43.82</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.52</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>275</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;310&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    21.54</td>
+<td class='table-blue-td' style='text-align:right;'>    13.46</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.15</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>276</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;311&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   155.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.31</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>277</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;312&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   110.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>278</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;313&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     5.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>279</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;314&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   136.09</td>
+<td class='table-blue-td' style='text-align:right;'>    63.60</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.15</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>280</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;315&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.93</td>
+<td class='table-blue-td' style='text-align:right;'>    28.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.46</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>281</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;316&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    74.52</td>
+<td class='table-blue-td' style='text-align:right;'>    67.28</td>
+<td class='table-blue-td' style='text-align:right;'>     0.30</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.30</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>282</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;317&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    37.32</td>
+<td class='table-blue-td' style='text-align:right;'>     7.49</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>283</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;318&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>284</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;319&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     5.59</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>285</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;320&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    92.32</td>
+<td class='table-blue-td' style='text-align:right;'>    61.44</td>
+<td class='table-blue-td' style='text-align:right;'>     1.28</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.78</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>286</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;321&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    61.80</td>
+<td class='table-blue-td' style='text-align:right;'>    61.80</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.08</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>287</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;322&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     2.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>288</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;323&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    50.23</td>
+<td class='table-blue-td' style='text-align:right;'>    46.84</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.41</td>
+<td class='table-blue-td' style='text-align:right;'>     0.37</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>289</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;324&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    54.57</td>
+<td class='table-blue-td' style='text-align:right;'>    46.57</td>
+<td class='table-blue-td' style='text-align:right;'>     0.39</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.40</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>290</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;325&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    44.42</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>291</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;326&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.85</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>292</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;327&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    69.50</td>
+<td class='table-blue-td' style='text-align:right;'>    56.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.43</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.31</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>293</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;328&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    32.47</td>
+<td class='table-blue-td' style='text-align:right;'>    29.30</td>
+<td class='table-blue-td' style='text-align:right;'>     0.52</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.47</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>294</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;329&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   103.76</td>
+<td class='table-blue-td' style='text-align:right;'>   100.46</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.97</td>
+<td class='table-blue-td' style='text-align:right;'>     0.89</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>295</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;330&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    10.27</td>
+<td class='table-blue-td' style='text-align:right;'>     1.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.16</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>296</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;331&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   111.21</td>
+<td class='table-blue-td' style='text-align:right;'>    36.61</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.59</td>
+<td class='table-blue-td' style='text-align:right;'>     0.18</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>297</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;332&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     6.77</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>298</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;333&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   119.39</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>299</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;334&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    65.64</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>300</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;335&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    13.04</td>
+<td class='table-blue-td' style='text-align:right;'>     1.95</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>301</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;336&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    66.59</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.97</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>302</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;337&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    33.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>303</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;338&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    66.75</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>304</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;339&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    30.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.39</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>305</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;340&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>306</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;341&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    52.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>307</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;342&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    99.91</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>308</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;343&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.10</td>
+<td class='table-blue-td' style='text-align:right;'>    23.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.40</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.37</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>309</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;344&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>310</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;345&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    52.97</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>311</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;346&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    89.48</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>312</td>
+<td class='table-blue-td' style='text-align:left;'>E:PRO&nbsp;347&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.56</td>
+<td class='table-blue-td' style='text-align:right;'>     4.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.20</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.06</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>313</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;348&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    74.84</td>
+<td class='table-blue-td' style='text-align:right;'>    13.87</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.29</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.15</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>314</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;349&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    69.18</td>
+<td class='table-blue-td' style='text-align:right;'>    53.96</td>
+<td class='table-blue-td' style='text-align:right;'>     0.67</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.80</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>315</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;350&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.05</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>316</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;351&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    32.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.46</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>317</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;352&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     6.27</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>318</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;353&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    64.72</td>
+<td class='table-blue-td' style='text-align:right;'>     9.61</td>
+<td class='table-blue-td' style='text-align:right;'>     1.03</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.15</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>319</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;354&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    84.92</td>
+<td class='table-blue-td' style='text-align:right;'>    56.92</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.48</td>
+<td class='table-blue-td' style='text-align:right;'>     0.18</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>320</td>
+<td class='table-blue-td' style='text-align:left;'>E:TYR&nbsp;355&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.62</td>
+<td class='table-blue-td' style='text-align:right;'>     8.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.15</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.08</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>321</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;356&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    59.39</td>
+<td class='table-blue-td' style='text-align:right;'>    31.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.40</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>322</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;357&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    57.66</td>
+<td class='table-blue-td' style='text-align:right;'>    46.19</td>
+<td class='table-blue-td' style='text-align:right;'>     0.78</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.64</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>323</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;358&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   106.46</td>
+<td class='table-blue-td' style='text-align:right;'>   104.45</td>
+<td class='table-blue-td' style='text-align:right;'>     1.62</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.59</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>324</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;359&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    13.23</td>
+<td class='table-blue-td' style='text-align:right;'>    12.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.21</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.20</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>325</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;360&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    56.89</td>
+<td class='table-blue-td' style='text-align:right;'>    51.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.69</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.61</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>326</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;361&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   112.38</td>
+<td class='table-blue-td' style='text-align:right;'>   104.70</td>
+<td class='table-blue-td' style='text-align:right;'>     0.18</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.18</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>327</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;362&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    67.21</td>
+<td class='table-blue-td' style='text-align:right;'>    53.63</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.74</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>328</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;363&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    37.20</td>
+<td class='table-blue-td' style='text-align:right;'>    33.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.43</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.38</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>329</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;364&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.72</td>
+<td class='table-blue-td' style='text-align:right;'>     1.72</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>330</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;365&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    66.20</td>
+<td class='table-blue-td' style='text-align:right;'>    56.58</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>331</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;366&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>332</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;367&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    78.37</td>
+<td class='table-blue-td' style='text-align:right;'>    39.30</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.18</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>333</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;368&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    23.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>334</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;369&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    51.86</td>
+<td class='table-blue-td' style='text-align:right;'>    42.26</td>
+<td class='table-blue-td' style='text-align:right;'>     0.80</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.65</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>335</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;370&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   127.82</td>
+<td class='table-blue-td' style='text-align:right;'>     9.47</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.36</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.09</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>336</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;371&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    38.33</td>
+<td class='table-blue-td' style='text-align:right;'>    34.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.04</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.06</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>337</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;372&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>338</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;373&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    12.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.20</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>339</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;374&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   100.28</td>
+<td class='table-blue-td' style='text-align:right;'>    57.59</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.55</td>
+<td class='table-blue-td' style='text-align:right;'>     0.94</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>340</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;375&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    94.56</td>
+<td class='table-blue-td' style='text-align:right;'>    37.86</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.47</td>
+<td class='table-blue-td' style='text-align:right;'>     1.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>341</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;376&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>342</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;377&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>343</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;378&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    81.71</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>344</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;379&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    11.67</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>345</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;380&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>346</td>
+<td class='table-blue-td' style='text-align:left;'>E:TRP&nbsp;381&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   100.55</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     1.14</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>347</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;382&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    82.57</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.36</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>348</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;383&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>349</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;384&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     9.20</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>350</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;385&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   119.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.47</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>351</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;386&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    35.47</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>352</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;387&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    24.81</td>
+<td class='table-blue-td' style='text-align:right;'>     2.13</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.22</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>353</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;388&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   103.99</td>
+<td class='table-blue-td' style='text-align:right;'>    44.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.27</td>
+<td class='table-blue-td' style='text-align:right;'>     0.26</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>354</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;389&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    97.02</td>
+<td class='table-blue-td' style='text-align:right;'>     2.45</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.43</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>355</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;390&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    52.05</td>
+<td class='table-blue-td' style='text-align:right;'>    51.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.83</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.82</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>356</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;391&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     3.85</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.06</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>357</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;392&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    16.00</td>
+<td class='table-blue-td' style='text-align:right;'>    16.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.26</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.26</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>358</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;393&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   116.41</td>
+<td class='table-blue-td' style='text-align:right;'>   107.64</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.96</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>359</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;394&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    15.30</td>
+<td class='table-blue-td' style='text-align:right;'>    12.81</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.45</td>
+<td class='table-blue-td' style='text-align:right;'>     0.37</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>360</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;395&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>361</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;396&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    84.83</td>
+<td class='table-blue-td' style='text-align:right;'>    45.83</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.28</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>362</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;397&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    54.31</td>
+<td class='table-blue-td' style='text-align:right;'>    53.65</td>
+<td class='table-blue-td' style='text-align:right;'>     0.81</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.81</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>363</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;398&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>364</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;399&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     4.52</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.07</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>365</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;400&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    86.84</td>
+<td class='table-blue-td' style='text-align:right;'>    72.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.28</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.32</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>366</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;401&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    83.57</td>
+<td class='table-blue-td' style='text-align:right;'>    25.48</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.56</td>
+<td class='table-blue-td' style='text-align:right;'>     0.30</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>367</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;402&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.37</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>368</td>
+<td class='table-blue-td' style='text-align:left;'>E:MET&nbsp;403&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>369</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;404&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    99.12</td>
+<td class='table-blue-td' style='text-align:right;'>    61.90</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.54</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>370</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;405&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   100.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.40</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>371</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;406&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     9.21</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.15</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>372</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;407&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    46.99</td>
+<td class='table-blue-td' style='text-align:right;'>    45.33</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.39</td>
+<td class='table-blue-td' style='text-align:right;'>     0.40</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>373</td>
+<td class='table-blue-td' style='text-align:left;'>E:TYR&nbsp;408&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   192.02</td>
+<td class='table-blue-td' style='text-align:right;'>   181.56</td>
+<td class='table-blue-td' style='text-align:right;'>     1.36</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.36</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>374</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;409&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    65.24</td>
+<td class='table-blue-td' style='text-align:right;'>    22.87</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.61</td>
+<td class='table-blue-td' style='text-align:right;'>     0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>375</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;410&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.34</td>
+<td class='table-blue-td' style='text-align:right;'>     1.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.02</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.02</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>376</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;411&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    61.84</td>
+<td class='table-blue-td' style='text-align:right;'>    38.82</td>
+<td class='table-blue-td' style='text-align:right;'>     0.22</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.13</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>377</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;412&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   126.23</td>
+<td class='table-blue-td' style='text-align:right;'>    41.13</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.20</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>378</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;413&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    35.44</td>
+<td class='table-blue-td' style='text-align:right;'>     0.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.57</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>379</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;414&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    70.66</td>
+<td class='table-blue-td' style='text-align:right;'>    10.86</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.12</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>380</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLY&nbsp;415&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    68.03</td>
+<td class='table-blue-td' style='text-align:right;'>    52.50</td>
+<td class='table-blue-td' style='text-align:right;'>     0.39</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.31</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>381</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLN&nbsp;416&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    77.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.61</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.23</td>
+<td class='table-blue-td' style='text-align:right;'>     0.01</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>382</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASN&nbsp;417&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   112.20</td>
+<td class='table-blue-td' style='text-align:right;'>    66.14</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.47</td>
+<td class='table-blue-td' style='text-align:right;'>     0.36</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>383</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;418&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    33.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.52</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>384</td>
+<td class='table-blue-td' style='text-align:left;'>E:THR&nbsp;419&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    67.70</td>
+<td class='table-blue-td' style='text-align:right;'>     4.99</td>
+<td class='table-blue-td' style='text-align:right;'>     0.79</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>385</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;420&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>386</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;421&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    43.94</td>
+<td class='table-blue-td' style='text-align:right;'>    11.19</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.30</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.17</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>387</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;422&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    13.47</td>
+<td class='table-blue-td' style='text-align:right;'>    13.47</td>
+<td class='table-blue-td' style='text-align:right;'>     0.20</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.20</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>388</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;423&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   108.90</td>
+<td class='table-blue-td' style='text-align:right;'>    27.93</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.51</td>
+<td class='table-blue-td' style='text-align:right;'>     0.34</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>389</td>
+<td class='table-blue-td' style='text-align:left;'>E:TYR&nbsp;424&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    42.48</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.62</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>390</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;425&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     2.11</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>391</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;426&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    24.10</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.22</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>392</td>
+<td class='table-blue-td' style='text-align:left;'>E:LYS&nbsp;427&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   165.16</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.57</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>393</td>
+<td class='table-blue-td' style='text-align:left;'>E:HIS&nbsp;428&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    37.04</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.34</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>394</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;429&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     1.84</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.03</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>395</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;430&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    80.17</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.12</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>396</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;431&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    67.85</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.98</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>397</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;432&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    28.79</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.46</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>398</td>
+<td class='table-blue-td' style='text-align:left;'>E:VAL&nbsp;433&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    18.29</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.18</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>399</td>
+<td class='table-blue-td' style='text-align:left;'>E:ALA&nbsp;434&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    81.33</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>400</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;435&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    62.00</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.02</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>401</td>
+<td class='table-blue-td' style='text-align:left;'>E:GLU&nbsp;436&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    83.69</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.54</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>402</td>
+<td class='table-blue-td' style='text-align:left;'>E:ASP&nbsp;437&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    92.87</td>
+<td class='table-blue-td' style='text-align:right;'>    16.44</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.24</td>
+<td class='table-blue-td' style='text-align:right;'>     0.19</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>403</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;438&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    74.07</td>
+<td class='table-blue-td' style='text-align:right;'>     4.52</td>
+<td class='table-blue-td' style='text-align:right;'>     1.17</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.07</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>404</td>
+<td class='table-blue-td' style='text-align:left;'>E:SER&nbsp;439&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>     0.74</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.01</td>
+<td class='table-blue-td' style='text-align:right;'>     0.00</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>405</td>
+<td class='table-blue-td' style='text-align:left;'>E:ARG&nbsp;440&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   135.23</td>
+<td class='table-blue-td' style='text-align:right;'>    70.29</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.86</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.29</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>406</td>
+<td class='table-blue-td' style='text-align:left;'>E:PHE&nbsp;441&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   160.51</td>
+<td class='table-blue-td' style='text-align:right;'>   132.66</td>
+<td class='table-blue-td' style='text-align:right;'>     1.75</td>
+<td class='table-blue-td' style='text-align:right;'>    -1.30</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>407</td>
+<td class='table-blue-td' style='text-align:left;'>E:ILE&nbsp;442&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    54.24</td>
+<td class='table-blue-td' style='text-align:right;'>    42.09</td>
+<td class='table-blue-td' style='text-align:right;'>     0.70</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.55</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>408</td>
+<td class='table-blue-td' style='text-align:left;'>E:LEU&nbsp;443&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>    17.23</td>
+<td class='table-blue-td' style='text-align:right;'>    15.35</td>
+<td class='table-blue-td' style='text-align:right;'>     0.25</td>
+<td class='table-blue-td' style='text-align:right;'>    -0.22</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' style='text-align:right;' title='Sum properties' colspan='2'>Total</th>
+<td class='table-blue-td' style='text-align:right;'> 22072.63</td>
+<td class='table-blue-td' style='text-align:right;'>  6024.48</td>
+<td class='table-blue-td' style='text-align:right;'>    36.33</td>
+<td class='table-blue-td' style='text-align:right;'>   -14.12</td>
+  </tr>
+ </tbody>
+</table>

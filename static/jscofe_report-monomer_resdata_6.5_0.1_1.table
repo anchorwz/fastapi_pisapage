@@ -1,0 +1,29 @@
+<table id='jscofe_report-monomer_resdata_6-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Residue serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Residue ID: chain:name seqNo[insCode]'>Residue</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Accessible Surface Area, &Aring;&sup2;'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Sum contribution into the Buried Surface Area of all interfaces, formed by the monomer, in &Aring;&sup2;'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Solvation effect, in kcal/mol'>SEF</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Sum contribution into Solvation Energy of all interfaces, formed by the monomer, in kcal/mol'>Delta G</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:left;'>E:ANP&nbsp;500&nbsp;</td>
+<td class='table-blue-td' style='text-align:right;'>   632.31</td>
+<td class='table-blue-td' style='text-align:right;'>   585.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.68</td>
+<td class='table-blue-td' style='text-align:right;'>     1.49</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' style='text-align:right;' title='Sum properties' colspan='2'>Total</th>
+<td class='table-blue-td' style='text-align:right;'>   632.31</td>
+<td class='table-blue-td' style='text-align:right;'>   585.13</td>
+<td class='table-blue-td' style='text-align:right;'>     0.68</td>
+<td class='table-blue-td' style='text-align:right;'>     1.49</td>
+  </tr>
+ </tbody>
+</table>

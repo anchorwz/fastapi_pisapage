@@ -1,0 +1,156 @@
+<table id='jscofe_report-interface_bonds_1_sb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2843</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;412&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.8477</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;412&nbsp;[&nbsp;OD2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2450</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;409&nbsp;[&nbsp;OD2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>4</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.9345</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;409&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>5</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>2.4387</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;409&nbsp;[&nbsp;OD2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>6</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.9190</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;412&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>7</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;&nbsp;7&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4087</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;412&nbsp;[&nbsp;OD2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>8</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;32&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2290</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>9</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;32&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4576</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>10</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;32&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7939</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>11</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;32&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>2.5984</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>12</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;36&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.7269</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>13</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;&nbsp;36&nbsp;[&nbsp;NH2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1229</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;362&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>14</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;279&nbsp;[&nbsp;NE&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.3489</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;257&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>15</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;279&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7591</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ASP&nbsp;256&nbsp;[&nbsp;OD1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>16</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;279&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.9365</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;257&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>17</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;279&nbsp;[&nbsp;NH1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.0625</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:GLU&nbsp;&nbsp;82&nbsp;[&nbsp;OE1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>18</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;&nbsp;47&nbsp;[&nbsp;OE1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5115</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;69&nbsp;[&nbsp;NH2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>19</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;&nbsp;47&nbsp;[&nbsp;OE2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4633</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;69&nbsp;[&nbsp;NH1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>20</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;&nbsp;47&nbsp;[&nbsp;OE2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.9769</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;&nbsp;69&nbsp;[&nbsp;NH2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>21</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;248&nbsp;[&nbsp;OE1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.9806</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:LYS&nbsp;109&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>22</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;286&nbsp;[&nbsp;OE1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1107</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:LYS&nbsp;&nbsp;80&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>23</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;286&nbsp;[&nbsp;OE2]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7270</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:LYS&nbsp;&nbsp;80&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>24</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;321&nbsp;[&nbsp;OE1]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8874</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;F:ARG&nbsp;393&nbsp;[&nbsp;NH2]</td>
+  </tr>
+ </tbody>
+</table>

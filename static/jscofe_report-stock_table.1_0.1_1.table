@@ -1,0 +1,378 @@
+<table id='jscofe_report-stock_table-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly serial number'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Check box to show line in the plot.'>Plot</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Number of macromolecules in the assembly.'>Size</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly type Id. Similar assemblies have same type Ids.'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Accessible Solvent Area of the assembly, in &Aring;&sup2;.'>ASA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Buried Surface Area of the assembly,  in &Aring;&sup2;.'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard Free Energy of dissociation into nearest stable assemblies with a positive dG_diss, in kcal/mol.'>dG_diss</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Standard Free Energy of dissociation into monomeric units (ground state), in kcal/mol.'>dG0</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Chemical formula of the assembly. In the formula, monomeric units of the same chemical type are represented by the same letter. Capital letters stand for macromolecules and small letters denote ligands.'>Formula</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Assembly Composition shows particular macromolecular chains and ligands found in the assembly.'>Composition</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='background-color:#FF0000'></td>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>77213.3</td>
+<td class='table-blue-td' style='text-align:right;'>25427.8</td>
+<td class='table-blue-td' style='text-align:right;'>27.9</td>
+<td class='table-blue-td' style='text-align:right;'>37.6</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='background-color:#0000FF'></td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>104504.6</td>
+<td class='table-blue-td' style='text-align:right;'>32216.1</td>
+<td class='table-blue-td' style='text-align:right;'>73.9</td>
+<td class='table-blue-td' style='text-align:right;'>73.9</td>
+<td class='table-blue-td' style='text-align:left;'>B<sub>6</sub>a<sub>6</sub></td>
+<td class='table-blue-td' style='text-align:left;'>E<sub>3</sub>F<sub>3</sub>[ANP]<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='background-color:#008000'></td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>21970.7</td>
+<td class='table-blue-td' style='text-align:right;'>841.8</td>
+<td class='table-blue-td' style='text-align:right;'>0.0</td>
+<td class='table-blue-td' style='text-align:right;'>0.0</td>
+<td class='table-blue-td' style='text-align:left;'>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>E[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='background-color:#00FFFF'></td>
+<td class='table-blue-td' style='text-align:right;'>1</td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>8557.9</td>
+<td class='table-blue-td' style='text-align:right;'>0.0</td>
+<td class='table-blue-td' style='text-align:right;'>0.0</td>
+<td class='table-blue-td' style='text-align:right;'>0.0</td>
+<td class='table-blue-td' style='text-align:left;'>A</td>
+<td class='table-blue-td' style='text-align:left;'>B</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='background-color:#FF00FF'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>5</td>
+<td class='table-blue-td' style='text-align:right;'>28730.5</td>
+<td class='table-blue-td' style='text-align:right;'>5384.2</td>
+<td class='table-blue-td' style='text-align:right;'>2.8</td>
+<td class='table-blue-td' style='text-align:right;'>2.8</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='background-color:#BDB76B'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>42245.7</td>
+<td class='table-blue-td' style='text-align:right;'>3164.2</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:right;'>-5.1</td>
+<td class='table-blue-td' style='text-align:left;'>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='background-color:#8B4513'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>7</td>
+<td class='table-blue-td' style='text-align:right;'>16207.6</td>
+<td class='table-blue-td' style='text-align:right;'>895.2</td>
+<td class='table-blue-td' style='text-align:right;'>-2.4</td>
+<td class='table-blue-td' style='text-align:right;'>-2.4</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>8</td>
+<td class='table-blue-td' style='background-color:#8B0000'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>8</td>
+<td class='table-blue-td' style='text-align:right;'>15920.5</td>
+<td class='table-blue-td' style='text-align:right;'>1195.7</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:right;'>-2.5</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>AB</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>9</td>
+<td class='table-blue-td' style='background-color:#2E8B57'></td>
+<td class='table-blue-td' style='text-align:right;'>18</td>
+<td class='table-blue-td' style='text-align:right;'>9</td>
+<td class='table-blue-td' style='text-align:right;'>197004.6</td>
+<td class='table-blue-td' style='text-align:right;'>42307.8</td>
+<td class='table-blue-td' style='text-align:right;'>-106.3</td>
+<td class='table-blue-td' style='text-align:right;'>-32.4</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub>B<sub>6</sub>a<sub>6</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>3</sub>B<sub>3</sub>C<sub>3</sub>D<sub>3</sub>E<sub>3</sub>F<sub>3</sub>[ANP]<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>10</td>
+<td class='table-blue-td' style='background-color:#000080'></td>
+<td class='table-blue-td' style='text-align:right;'>18</td>
+<td class='table-blue-td' style='text-align:right;'>10</td>
+<td class='table-blue-td' style='text-align:right;'>205783.7</td>
+<td class='table-blue-td' style='text-align:right;'>33447.4</td>
+<td class='table-blue-td' style='text-align:right;'>-94.5</td>
+<td class='table-blue-td' style='text-align:right;'>-57.9</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub>B<sub>6</sub>a<sub>6</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>6</sub>D<sub>6</sub>F<sub>6</sub>[ANP]<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>11</td>
+<td class='table-blue-td' style='background-color:#008B8B'></td>
+<td class='table-blue-td' style='text-align:right;'>9</td>
+<td class='table-blue-td' style='text-align:right;'>11</td>
+<td class='table-blue-td' style='text-align:right;'>109250.1</td>
+<td class='table-blue-td' style='text-align:right;'>10406.0</td>
+<td class='table-blue-td' style='text-align:right;'>-74.1</td>
+<td class='table-blue-td' style='text-align:right;'>-74.1</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>3</sub>a<sub>3</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>3</sub>D<sub>3</sub>F<sub>3</sub>[ANP]<sub>3</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='background-color:#8B008B'></td>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:right;'>279788.4</td>
+<td class='table-blue-td' style='text-align:right;'>96492.0</td>
+<td class='table-blue-td' style='text-align:right;'>-26.5</td>
+<td class='table-blue-td' style='text-align:right;'>152.9</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub>B<sub>12</sub>a<sub>12</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub>E<sub>6</sub>F<sub>6</sub>[ANP]<sub>12</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>13</td>
+<td class='table-blue-td' style='background-color:#FF4500'></td>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='text-align:right;'>13</td>
+<td class='table-blue-td' style='text-align:right;'>299960.2</td>
+<td class='table-blue-td' style='text-align:right;'>75703.9</td>
+<td class='table-blue-td' style='text-align:right;'>-124.5</td>
+<td class='table-blue-td' style='text-align:right;'>23.3</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>12</sub>B<sub>12</sub>a<sub>12</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>C<sub>6</sub>E<sub>6</sub>F<sub>6</sub>[ANP]<sub>12</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>14</td>
+<td class='table-blue-td' style='background-color:#FA8072'></td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>14</td>
+<td class='table-blue-td' style='text-align:right;'>72406.3</td>
+<td class='table-blue-td' style='text-align:right;'>7445.7</td>
+<td class='table-blue-td' style='text-align:right;'>-32.4</td>
+<td class='table-blue-td' style='text-align:right;'>-32.4</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub>F<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>15</td>
+<td class='table-blue-td' style='background-color:#4682B4'></td>
+<td class='table-blue-td' style='text-align:right;'>12</td>
+<td class='table-blue-td' style='text-align:right;'>15</td>
+<td class='table-blue-td' style='text-align:right;'>146154.8</td>
+<td class='table-blue-td' style='text-align:right;'>41985.4</td>
+<td class='table-blue-td' style='text-align:right;'>-46.1</td>
+<td class='table-blue-td' style='text-align:right;'>27.8</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub>B<sub>6</sub>a<sub>6</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>3</sub>B<sub>3</sub>E<sub>3</sub>F<sub>3</sub>[ANP]<sub>6</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>16</td>
+<td class='table-blue-td' style='background-color:#32CD32'></td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>16</td>
+<td class='table-blue-td' style='text-align:right;'>44881.2</td>
+<td class='table-blue-td' style='text-align:right;'>6432.3</td>
+<td class='table-blue-td' style='text-align:right;'>-29.1</td>
+<td class='table-blue-td' style='text-align:right;'>-29.1</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>6</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>3</sub>D<sub>3</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>17</td>
+<td class='table-blue-td' style='background-color:#20B2AA'></td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>17</td>
+<td class='table-blue-td' style='text-align:right;'>71207.0</td>
+<td class='table-blue-td' style='text-align:right;'>8645.0</td>
+<td class='table-blue-td' style='text-align:right;'>-29.8</td>
+<td class='table-blue-td' style='text-align:right;'>-21.7</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub>F<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>18</td>
+<td class='table-blue-td' style='background-color:#800000'></td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>18</td>
+<td class='table-blue-td' style='text-align:right;'>37316.8</td>
+<td class='table-blue-td' style='text-align:right;'>2528.0</td>
+<td class='table-blue-td' style='text-align:right;'>-15.9</td>
+<td class='table-blue-td' style='text-align:right;'>-15.9</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>ABE[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>19</td>
+<td class='table-blue-td' style='background-color:#CD5C5C'></td>
+<td class='table-blue-td' style='text-align:right;'>6</td>
+<td class='table-blue-td' style='text-align:right;'>19</td>
+<td class='table-blue-td' style='text-align:right;'>73586.4</td>
+<td class='table-blue-td' style='text-align:right;'>6265.6</td>
+<td class='table-blue-td' style='text-align:right;'>-38.1</td>
+<td class='table-blue-td' style='text-align:right;'>-38.1</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub>F<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>20</td>
+<td class='table-blue-td' style='background-color:#00BFFF'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>20</td>
+<td class='table-blue-td' style='text-align:right;'>59028.9</td>
+<td class='table-blue-td' style='text-align:right;'>3566.9</td>
+<td class='table-blue-td' style='text-align:right;'>-31.5</td>
+<td class='table-blue-td' style='text-align:right;'>-31.5</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>21</td>
+<td class='table-blue-td' style='background-color:#3CB371'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>21</td>
+<td class='table-blue-td' style='text-align:right;'>30510.2</td>
+<td class='table-blue-td' style='text-align:right;'>3604.5</td>
+<td class='table-blue-td' style='text-align:right;'>-8.0</td>
+<td class='table-blue-td' style='text-align:right;'>-8.0</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>4</sub></td>
+<td class='table-blue-td' style='text-align:left;'>C<sub>2</sub>D<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>22</td>
+<td class='table-blue-td' style='background-color:#40E0D0'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>22</td>
+<td class='table-blue-td' style='text-align:right;'>15950.9</td>
+<td class='table-blue-td' style='text-align:right;'>1106.5</td>
+<td class='table-blue-td' style='text-align:right;'>-4.3</td>
+<td class='table-blue-td' style='text-align:right;'>-4.3</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>CD</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>23</td>
+<td class='table-blue-td' style='background-color:#D2691E'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>23</td>
+<td class='table-blue-td' style='text-align:right;'>58754.8</td>
+<td class='table-blue-td' style='text-align:right;'>3958.6</td>
+<td class='table-blue-td' style='text-align:right;'>-28.6</td>
+<td class='table-blue-td' style='text-align:right;'>-28.6</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>ABEF[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='background-color:#DC143C'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>24</td>
+<td class='table-blue-td' style='text-align:right;'>45208.3</td>
+<td class='table-blue-td' style='text-align:right;'>3279.4</td>
+<td class='table-blue-td' style='text-align:right;'>-28.5</td>
+<td class='table-blue-td' style='text-align:right;'>-28.5</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>3</sub>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>BCDF[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>25</td>
+<td class='table-blue-td' style='background-color:#1E90FF'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>25</td>
+<td class='table-blue-td' style='text-align:right;'>57499.0</td>
+<td class='table-blue-td' style='text-align:right;'>5067.1</td>
+<td class='table-blue-td' style='text-align:right;'>-29.9</td>
+<td class='table-blue-td' style='text-align:right;'>-29.9</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>26</td>
+<td class='table-blue-td' style='background-color:#6B8E23'></td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>26</td>
+<td class='table-blue-td' style='text-align:right;'>37958.1</td>
+<td class='table-blue-td' style='text-align:right;'>1931.3</td>
+<td class='table-blue-td' style='text-align:right;'>-25.3</td>
+<td class='table-blue-td' style='text-align:right;'>-25.3</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>BCF[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>27</td>
+<td class='table-blue-td' style='background-color:#4169E1'></td>
+<td class='table-blue-td' style='text-align:right;'>4</td>
+<td class='table-blue-td' style='text-align:right;'>27</td>
+<td class='table-blue-td' style='text-align:right;'>59060.6</td>
+<td class='table-blue-td' style='text-align:right;'>3652.8</td>
+<td class='table-blue-td' style='text-align:right;'>-29.0</td>
+<td class='table-blue-td' style='text-align:right;'>-29.0</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>B<sub>2</sub>a<sub>2</sub></td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>E<sub>2</sub>[ANP]<sub>2</sub></td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>28</td>
+<td class='table-blue-td' style='background-color:#FF4500'></td>
+<td class='table-blue-td' style='text-align:right;'>3</td>
+<td class='table-blue-td' style='text-align:right;'>28</td>
+<td class='table-blue-td' style='text-align:right;'>37247.3</td>
+<td class='table-blue-td' style='text-align:right;'>2678.7</td>
+<td class='table-blue-td' style='text-align:right;'>-16.0</td>
+<td class='table-blue-td' style='text-align:right;'>-16.0</td>
+<td class='table-blue-td' style='text-align:left;'>A<sub>2</sub>Ba</td>
+<td class='table-blue-td' style='text-align:left;'>CDF[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>29</td>
+<td class='table-blue-td' style='background-color:#FF1493'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>29</td>
+<td class='table-blue-td' style='text-align:right;'>29951.4</td>
+<td class='table-blue-td' style='text-align:right;'>1331.6</td>
+<td class='table-blue-td' style='text-align:right;'>-13.1</td>
+<td class='table-blue-td' style='text-align:right;'>-13.1</td>
+<td class='table-blue-td' style='text-align:left;'>ABa</td>
+<td class='table-blue-td' style='text-align:left;'>AE[ANP]</td>
+  </tr>
+  <tr>
+<td class='table-blue-td' style='text-align:right;'>30</td>
+<td class='table-blue-td' style='background-color:#5F9EA0'></td>
+<td class='table-blue-td' style='text-align:right;'>2</td>
+<td class='table-blue-td' style='text-align:right;'>30</td>
+<td class='table-blue-td' style='text-align:right;'>29975.6</td>
+<td class='table-blue-td' style='text-align:right;'>1381.1</td>
+<td class='table-blue-td' style='text-align:right;'>-11.6</td>
+<td class='table-blue-td' style='text-align:right;'>-11.6</td>
+<td class='table-blue-td' style='text-align:left;'>ABa</td>
+<td class='table-blue-td' style='text-align:left;'>AE[ANP]</td>
+  </tr>
+ </tbody>
+</table>

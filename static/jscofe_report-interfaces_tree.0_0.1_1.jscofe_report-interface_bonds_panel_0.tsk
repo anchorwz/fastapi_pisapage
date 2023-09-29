@@ -1,0 +1,20 @@
+NEST_GRID_COMPACT:::jscofe_report-interface_bonds_panel_0:::jscofe_report-interfaces_tree:::1:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>Interface F || E</h2>:::jscofe_report-interface_bonds_panel_0:::0:::0:::1:::3;;;
+ADD_DROPDOWN:::jscofe_report-interface_bonds_0_hb_table:::Hydrogen bonds:::jscofe_report-interface_bonds_panel_0:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-interface_bonds_0_hb_table:::jscofe_report-interface_bonds_0_hb.1_0.1_1.table:::false::: ;;;
+ADD_DROPDOWN:::jscofe_report-interface_bonds_0_sb_table:::Salt bridges:::jscofe_report-interface_bonds_panel_0:::1:::1:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-interface_bonds_0_sb_table:::jscofe_report-interface_bonds_0_sb.1_1.1_1.table:::false::: ;;;
+ADD_DROPDOWN:::jscofe_report-interface_bonds_0_ds_table:::Disulphide bonds:::jscofe_report-interface_bonds_panel_0:::2:::0:::1:::1:::none;;;
+SET_HTML:::jscofe_report-interface_bonds_0_ds_table:::<table id='jscofe_report-interface_bonds_0_ds-grid' style='width:auto' class='table-plain'>
+  <tr>
+<td class='table-plain-td'>No disulphide bonds found</td>
+  </tr>
+</table>
+;;;
+ADD_DROPDOWN:::jscofe_report-interface_bonds_0_cv_table:::Covalent bonds:::jscofe_report-interface_bonds_panel_0:::2:::1:::1:::1:::none;;;
+SET_HTML:::jscofe_report-interface_bonds_0_cv_table:::<table id='jscofe_report-interface_bonds_0_cv-grid' style='width:auto' class='table-plain'>
+  <tr>
+<td class='table-plain-td'>No covalent bonds found</td>
+  </tr>
+</table>
+;;;

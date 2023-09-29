@@ -1,0 +1,26 @@
+<table id='jscofe_report-summary_table1-grid' style='width:auto' class='table-blue'>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Input file name'>File</th>
+<td class='table-blue-td' style='text-align:left;'>1e94.pdb</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Structure title'>Title</th>
+<td class='table-blue-td' style='text-align:left;'>HSLV-HSLU FROM E.COLI</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Space symmetry group'>Space group</th>
+<td class='table-blue-td' style='text-align:left;'>P 63 2 2</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Resolution in &Aring;'>Resolution [&Aring;]</th>
+<td class='table-blue-td' style='text-align:left;'> 2.8</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Unit cell parameters: a, b, c, &alpha;,&beta, &gamma;'>Cell</th>
+<td class='table-blue-td' style='text-align:left;'>172.022 &nbsp;&nbsp;&nbsp;  172.022 &nbsp;&nbsp;&nbsp;  276.569 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    90 &nbsp;&nbsp;&nbsp;     90 &nbsp;&nbsp;&nbsp;    120</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Unit cell volume'>Cell volume [&Aring;^3]</th>
+<td class='table-blue-td' style='text-align:left;'>7.08765e+06</td>
+  </tr>
+</table>

@@ -1,0 +1,49 @@
+<table id='jscofe_report-assembly_table_monomers_30-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer serial number in assembly'>##</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer identifier'>Monomer</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer chemical class'>Class</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Monomer structural type. Monomers of same structural type are structurally similar'>Type</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Symmetry operation that puts the monomer on its place in assembly'>Sym. op-n</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='In N_XYZ, N is the symmetry operation number, XYZ is unit cell position.'>Sym. ID</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total surface area of the monomer, in square angstroms'>Area</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total buried surface area of the monomer in assembly, in square angstroms'>BSA</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total solvation energy gain for
+monomer in assembly, kcal/mol'>Delta G</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of hydrogen bonds to the monomer in assembly'>N<sub>hb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of salt bridges to the monomer in assembly'>N<sub>sb</sub></th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Total number of disulphide bonds to the monomer in assembly'>N<sub>ds</sub></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<td class='table-blue-td'>1</td>
+<td class='table-blue-td'>     A     </td>
+<td class='table-blue-td'><i>Protein</i></td>
+<td class='table-blue-td'>1</td>
+<td class='table-blue-td'>X,Y,Z</td>
+<td class='table-blue-td'>1_555</td>
+<td class='table-blue-td'>8578.1</td>
+<td class='table-blue-td'>598.2</td>
+<td class='table-blue-td'>-4.7</td>
+<td class='table-blue-td'>0</td>
+<td class='table-blue-td'>2</td>
+<td class='table-blue-td'>0</td>
+  </tr>
+  <tr>
+<td class='table-blue-td'>2</td>
+<td class='table-blue-td'>     B     </td>
+<td class='table-blue-td'><i>Protein</i></td>
+<td class='table-blue-td'>1</td>
+<td class='table-blue-td'>-X+Y,Y,-Z+1/2</td>
+<td class='table-blue-td'>10_555</td>
+<td class='table-blue-td'>8561.7</td>
+<td class='table-blue-td'>598.2</td>
+<td class='table-blue-td'>-4.5</td>
+<td class='table-blue-td'>0</td>
+<td class='table-blue-td'>2</td>
+<td class='table-blue-td'>0</td>
+  </tr>
+ </tbody>
+</table>

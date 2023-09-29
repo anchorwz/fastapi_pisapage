@@ -1,0 +1,126 @@
+<table id='jscofe_report-interface_bonds_13_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;N3B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4619</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;&nbsp;64&nbsp;[&nbsp;OG1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>2</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;N6&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>2.5787</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ILE&nbsp;&nbsp;18&nbsp;[&nbsp;O&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>3</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2G]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1090</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:SER&nbsp;307&nbsp;[&nbsp;OG&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>4</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O3G]</td>
+<td class='table-blue-td' style='text-align:right;'>2.9013</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;&nbsp;80&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>5</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1B]</td>
+<td class='table-blue-td' style='text-align:right;'>2.7331</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;&nbsp;63&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>6</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4886</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;&nbsp;63&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>7</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1B]</td>
+<td class='table-blue-td' style='text-align:right;'>2.8537</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;&nbsp;64&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>8</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.7472</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;&nbsp;64&nbsp;[&nbsp;OG1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>9</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.2055</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;&nbsp;63&nbsp;[&nbsp;NZ&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>10</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2B]</td>
+<td class='table-blue-td' style='text-align:right;'>2.4283</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLY&nbsp;&nbsp;60&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>11</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.6600</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:VAL&nbsp;&nbsp;61&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>12</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2B]</td>
+<td class='table-blue-td' style='text-align:right;'>3.1870</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;393&nbsp;[&nbsp;NH2]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>13</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1A]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5057</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:LYS&nbsp;&nbsp;63&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>14</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1A]</td>
+<td class='table-blue-td' style='text-align:right;'>3.8136</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:THR&nbsp;&nbsp;64&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>15</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O1A]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5712</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;&nbsp;65&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>16</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O2A]</td>
+<td class='table-blue-td' style='text-align:right;'>3.6558</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:GLU&nbsp;&nbsp;65&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>17</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O3A]</td>
+<td class='table-blue-td' style='text-align:right;'>3.5119</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;393&nbsp;[&nbsp;NH1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>18</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;O5']</td>
+<td class='table-blue-td' style='text-align:right;'>3.6426</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ARG&nbsp;393&nbsp;[&nbsp;NH1]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>19</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ANP&nbsp;500&nbsp;[&nbsp;N7&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.4861</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;E:ILE&nbsp;&nbsp;18&nbsp;[&nbsp;N&nbsp;&nbsp;]</td>
+  </tr>
+ </tbody>
+</table>

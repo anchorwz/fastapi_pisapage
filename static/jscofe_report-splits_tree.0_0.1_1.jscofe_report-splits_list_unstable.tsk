@@ -1,0 +1,4 @@
+ADD_PANEL:::jscofe_report-splits_list_unstable:::jscofe_report-splits_tree:::0:::0:::1:::1;;;
+ADD_HTML_GRID:::<h2>Crystal splits in Marginally Stable Assemblies</h2>:::jscofe_report-splits_list_unstable:::0:::0:::1:::1;;;
+ADD_DROPDOWN:::jscofe_report-splits_list_unstable_table_table:::The following sets of quaternary structures may be formed from crystallographic considerations,<br>however, they do not appear to be stable in solution.:::jscofe_report-splits_list_unstable:::1:::0:::1:::1:::none;;;
+LOAD_CONTENT:::jscofe_report-splits_list_unstable_table_table:::jscofe_report-splits_list_unstable_table.1_0.1_1.table:::false::: ;;;

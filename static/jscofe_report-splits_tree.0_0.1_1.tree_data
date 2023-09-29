@@ -1,0 +1,92 @@
+[
+{ label: 'Stable splits', id: 'jscofe_report-splits_list_stable-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable.tsk', openMode: 'auto',
+ children: [
+{ label: '1-1. A(12)', id: 'jscofe_report-splits_list_stable_d1-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d1.tsk', openMode: 'auto'
+},{
+ label: '1-2. A(12)', id: 'jscofe_report-splits_list_stable_d2-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d2.tsk', openMode: 'auto'
+},{
+ label: '1-3. B(6)a(6)', id: 'jscofe_report-splits_list_stable_d3-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d3.tsk', openMode: 'auto'
+},{
+ label: '2-4. A(12)', id: 'jscofe_report-splits_list_stable_d4-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d4.tsk', openMode: 'auto'
+},{
+ label: '2-5. A(12)', id: 'jscofe_report-splits_list_stable_d5-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d5.tsk', openMode: 'auto'
+},{
+ label: '2-6. Ba', id: 'jscofe_report-splits_list_stable_d6-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d6.tsk', openMode: 'auto'
+},{
+ label: '2-7. Ba', id: 'jscofe_report-splits_list_stable_d7-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d7.tsk', openMode: 'auto'
+},{
+ label: '3-8. B(6)a(6)', id: 'jscofe_report-splits_list_stable_d8-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d8.tsk', openMode: 'auto'
+},{
+ label: '3-9. A', id: 'jscofe_report-splits_list_stable_d9-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d9.tsk', openMode: 'auto'
+},{
+ label: '3-10. A', id: 'jscofe_report-splits_list_stable_d10-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d10.tsk', openMode: 'auto'
+},{
+ label: '3-11. A', id: 'jscofe_report-splits_list_stable_d11-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d11.tsk', openMode: 'auto'
+},{
+ label: '3-12. A', id: 'jscofe_report-splits_list_stable_d12-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_stable_d12.tsk', openMode: 'auto'
+}
+]
+},{
+ label: 'Metastable splits', id: 'jscofe_report-splits_list_grey-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_grey.tsk', openMode: 'auto'
+},{
+ label: 'Unstable splits', id: 'jscofe_report-splits_list_unstable-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable.tsk', openMode: 'auto',
+ children: [
+{ label: '4-13. A(12)', id: 'jscofe_report-splits_list_unstable_d13-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d13.tsk', openMode: 'auto'
+},{
+ label: '4-14. A(4)', id: 'jscofe_report-splits_list_unstable_d14-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d14.tsk', openMode: 'auto'
+},{
+ label: '4-15. B(2)a(2)', id: 'jscofe_report-splits_list_unstable_d15-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d15.tsk', openMode: 'auto'
+},{
+ label: '4-16. Ba', id: 'jscofe_report-splits_list_unstable_d16-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d16.tsk', openMode: 'auto'
+},{
+ label: '5-17. A(12)', id: 'jscofe_report-splits_list_unstable_d17-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d17.tsk', openMode: 'auto'
+},{
+ label: '5-18. A(12)', id: 'jscofe_report-splits_list_unstable_d18-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d18.tsk', openMode: 'auto'
+},{
+ label: '5-19. B(2)a(2)', id: 'jscofe_report-splits_list_unstable_d19-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d19.tsk', openMode: 'auto'
+},{
+ label: '5-20. Ba', id: 'jscofe_report-splits_list_unstable_d20-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d20.tsk', openMode: 'auto'
+},{
+ label: '6-21. A(12)', id: 'jscofe_report-splits_list_unstable_d21-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d21.tsk', openMode: 'auto'
+},{
+ label: '6-22. A(4)', id: 'jscofe_report-splits_list_unstable_d22-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d22.tsk', openMode: 'auto'
+},{
+ label: '6-23. Ba', id: 'jscofe_report-splits_list_unstable_d23-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d23.tsk', openMode: 'auto'
+},{
+ label: '6-24. Ba', id: 'jscofe_report-splits_list_unstable_d24-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d24.tsk', openMode: 'auto'
+},{
+ label: '7-25. A(2)', id: 'jscofe_report-splits_list_unstable_d25-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d25.tsk', openMode: 'auto'
+},{
+ label: '7-26. A(2)', id: 'jscofe_report-splits_list_unstable_d26-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d26.tsk', openMode: 'auto'
+},{
+ label: '7-27. A(2)', id: 'jscofe_report-splits_list_unstable_d27-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d27.tsk', openMode: 'auto'
+},{
+ label: '7-28. B(6)a(6)', id: 'jscofe_report-splits_list_unstable_d28-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d28.tsk', openMode: 'auto'
+},{
+ label: '7-29. A', id: 'jscofe_report-splits_list_unstable_d29-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d29.tsk', openMode: 'auto'
+},{
+ label: '8-30. A(2)', id: 'jscofe_report-splits_list_unstable_d30-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d30.tsk', openMode: 'auto'
+},{
+ label: '8-31. A(4)', id: 'jscofe_report-splits_list_unstable_d31-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d31.tsk', openMode: 'auto'
+},{
+ label: '8-32. B(2)a(2)', id: 'jscofe_report-splits_list_unstable_d32-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d32.tsk', openMode: 'auto'
+},{
+ label: '8-33. Ba', id: 'jscofe_report-splits_list_unstable_d33-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d33.tsk', openMode: 'auto'
+},{
+ label: '9-34. A(2)', id: 'jscofe_report-splits_list_unstable_d34-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d34.tsk', openMode: 'auto'
+},{
+ label: '9-35. A(4)', id: 'jscofe_report-splits_list_unstable_d35-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d35.tsk', openMode: 'auto'
+},{
+ label: '9-36. Ba', id: 'jscofe_report-splits_list_unstable_d36-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d36.tsk', openMode: 'auto'
+},{
+ label: '9-37. Ba', id: 'jscofe_report-splits_list_unstable_d37-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_unstable_d37.tsk', openMode: 'auto'
+}
+]
+},{
+ label: 'No-crystal analysis', id: 'jscofe_report-splits_list_as_is-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_as_is.tsk', openMode: 'auto',
+ children: [
+{ label: 'A(4)B(2)a(2)', id: 'jscofe_report-splits_list_as_is_d0-leaf', task: 'jscofe_report-splits_tree.0_0.1_1.jscofe_report-splits_list_as_is_d0.tsk', openMode: 'auto'
+}
+]
+}
+]

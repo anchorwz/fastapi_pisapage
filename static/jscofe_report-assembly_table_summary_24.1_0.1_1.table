@@ -1,0 +1,34 @@
+<table id='jscofe_report-assembly_table_summary_24-grid' style='width:auto' class='table-blue'>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of macromolecular chains in the assembly'>Multimeric state</th>
+<td class='table-blue-td'>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total surface area'>Surface area, &Aring;&sup2;</th>
+<td class='table-blue-td'>22032.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<th style='white-space:nowrap;' class='table-blue-vh' title='dG_diss, the Gibbs free energy of assembly dissociation into nearest assemblies with a positie dG_diss.'>Free energy of dissociation, kcal/mol</th>
+<td class='table-blue-td'>-0.0</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of these assemblies in Unit Cell'>Copies in Unit Cell</th>
+<td class='table-blue-td'>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total buried surface area'>Buried area, &Aring;&sup2;</th>
+<td class='table-blue-td'>836.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Entropy contribution into Gibbs free energy of dissociation (dG_diss) into nearest assemblies with a positive dG_diss.'>Entropy of dissociation, kcal/mol</th>
+<td class='table-blue-td'>0.0</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of rotations that superpose assembly on itself'>Symmetry number</th>
+<td class='table-blue-td'>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Assembly Composition shows particular macromolecular chains and ligands found in the assembly.'>Composition</th>
+<td class='table-blue-td' style='text-align:left;' colspan='5'>F[ANP]</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Chemical formula of the assembly. In the formula, monomeric units of the same chemical type are represented by the same letter. Capital letters stand for macroAsmUnits and small letters denote ligands.'>Formula</th>
+<td class='table-blue-td' style='text-align:left;' colspan='5'>Ba</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Stoichiometric pattern of assembly dissociation into nearest assemblies with positive dG_diss.'>Dissociation pattern</th>
+<td class='table-blue-td' style='text-align:left;' colspan='5'>F[ANP]</td>
+  </tr>
+</table>

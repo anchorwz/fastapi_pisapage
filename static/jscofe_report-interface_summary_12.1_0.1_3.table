@@ -1,0 +1,97 @@
+<table id='jscofe_report-interface_summary_12-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Summary for 1st interfacing monomer' colspan='2'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Summary for 2nd interfacing monomer' colspan='2'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Monomer selection range'>Monomer ID</th>
+<td class='table-blue-td' colspan='2'>D</td>
+<td class='table-blue-td' colspan='2'>D</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Monomer chemical type'>Class</th>
+<td class='table-blue-td' colspan='2'>Protein</td>
+<td class='table-blue-td' colspan='2'>Protein</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Symmetry operations applied to monomers'>Symmetry operation</th>
+<td class='table-blue-td' colspan='2'>X,Y,Z</td>
+<td class='table-blue-td' colspan='2'>X,X-Y+2,-Z-1/2   </td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Symmetry ID in form N_XYZ, where "N" is the symmetry operation number and "XYZ" is the unit cell position'>Symmetry ID</th>
+<td class='table-blue-td' colspan='2'>1_555</td>
+<td class='table-blue-td' colspan='2'>12_574</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of atoms in the interface area'>Interface atoms</th>
+<td class='table-blue-td'>46</td>
+<td class='table-blue-td'>&nbsp;3.5%</td>
+<td class='table-blue-td'>47</td>
+<td class='table-blue-td'>&nbsp;3.5%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of atoms exposed to surface'>Surface atoms</th>
+<td class='table-blue-td'>720</td>
+<td class='table-blue-td'>&nbsp;54.2%</td>
+<td class='table-blue-td'>720</td>
+<td class='table-blue-td'>&nbsp;54.2%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total number of atoms'>Total atoms</th>
+<td class='table-blue-td'>1328</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+<td class='table-blue-td'>1328</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of residues in the interface area'>Interface residues</th>
+<td class='table-blue-td'>12</td>
+<td class='table-blue-td'>&nbsp;6.9%</td>
+<td class='table-blue-td'>13</td>
+<td class='table-blue-td'>&nbsp;7.5%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Number of residues exposed to surface'>Surface residues</th>
+<td class='table-blue-td'>143</td>
+<td class='table-blue-td'>&nbsp;82.2%</td>
+<td class='table-blue-td'>143</td>
+<td class='table-blue-td'>&nbsp;82.2%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total number of residues'>Total residues</th>
+<td class='table-blue-td'>174</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+<td class='table-blue-td'>174</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Buried surface area'>BSA, &Aring;<sup>2</sup></th>
+<td class='table-blue-td'>&nbsp;448.5</td>
+<td class='table-blue-td'>&nbsp;5.2%</td>
+<td class='table-blue-td'>&nbsp;450.6</td>
+<td class='table-blue-td'>&nbsp;5.2%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Total accessible surface area'>ASA, &Aring;<sup>2</sup></th>
+<td class='table-blue-td'>&nbsp;8598.4</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+<td class='table-blue-td'>&nbsp;8598.4</td>
+<td class='table-blue-td'>&nbsp;100.0%</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Solvation energy of folding'>Solvation energy, kcal/mol</th>
+<td class='table-blue-td' colspan='2'>    -153.3</td>
+<td class='table-blue-td' colspan='2'>    -153.3</td>
+  </tr>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh' title='Solvation energy change upon formation of the interface'>SE gain, kcal/mol</th>
+<td class='table-blue-td' colspan='2'>-3.4       </td>
+<td class='table-blue-td' colspan='2'>-3.4       </td>
+  </tr>
+ </tbody>
+</table>

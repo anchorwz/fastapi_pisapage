@@ -1,0 +1,18 @@
+<table id='jscofe_report-interface_bonds_8_hb-grid' style='width:auto' class='table-blue'>
+ <thead>
+   <tr>
+<th style='white-space:nowrap;' class='table-blue-hh'>&nbsp;</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 1st interfacing monomer'>Monomer 1</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Bond length in &Aring;'>Length</th>
+<th style='white-space:nowrap;' class='table-blue-hh' title='Atoms in 2nd interfacing monomer'>Monomer 2</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+<th style='white-space:nowrap;' class='table-blue-vh'>1</th>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;D:LYS&nbsp;150&nbsp;[&nbsp;NZ&nbsp;]</td>
+<td class='table-blue-td' style='text-align:right;'>3.0973</td>
+<td class='table-blue-td' style='text-align:right;'>&nbsp;C:ASN&nbsp;139&nbsp;[&nbsp;OD1]</td>
+  </tr>
+ </tbody>
+</table>
